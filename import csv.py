@@ -1,4 +1,7 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
 from rdkit import Chem
 from rdkit.Chem import rdMolDescriptors, DataStructs
 from rdkit.Chem.rdFingerprintGenerator import GetMorganGenerator
@@ -48,6 +51,7 @@ similarity_scores = []
 for _, row in df_new.iterrows():
     smiles = row['SMILES']
     name = row['Name']
+    drugbank_id = row['DrugBank ID']
     try:
         mol = Chem.MolFromSmiles(smiles)
         if mol:
@@ -62,7 +66,7 @@ for _, row in df_new.iterrows():
                 raise ValueError(f"Unknown similarity metric: {similarity_metric}")
 
             if similarity >=0.3: # Set the similarity threshold
-                similarity_scores.append({'Name': name, 'Similarity': similarity}) # add 'SMILES': smiles, optionaly
+                similarity_scores.append({'DrugBank ID': drugbank_id,'Name': name, 'Similarity': similarity}) # add 'SMILES': smiles, optionaly
         else:
             print(f"Invalid SMILES: {smiles}")
     except Exception as e:
@@ -75,3 +79,29 @@ similarity_df = similarity_df.sort_values(by='Similarity', ascending=False)
 # Display the top results
 print(similarity_df.head(20))
 similarity_df.to_csv('similarity_results.csv', index=False)
+
+
+'''
+Heat Map
+# Create a pairwise similarity matrix
+unique_names = similarity_df['DrugBank ID'].unique()
+similarity_matrix = pd.DataFrame(0, index=unique_names, columns=unique_names)
+
+# Populate the matrix
+for _, row in similarity_df.iterrows():
+    name = row['DrugBank ID']
+    similarity_matrix.loc[name, name] = row['Similarity']
+
+# Fill diagonal with similarity 1.0 (self-similarity)
+np.fill_diagonal(similarity_matrix.values, 1.0)
+
+# Plot the heatmap
+plt.figure(figsize=(10, 8))
+sns.heatmap(similarity_matrix, annot=True, fmt=".2f", cmap="coolwarm", cbar=True)
+plt.title("Heatmap of Similarity Scores")
+plt.xlabel("DrugBank ID")
+plt.ylabel("DrugBank ID")
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
+'''
