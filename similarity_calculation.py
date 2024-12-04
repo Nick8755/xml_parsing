@@ -81,8 +81,8 @@ print(similarity_df.head(20))
 similarity_df.to_csv('similarity_results.csv', index=False)
 
 
-'''
-Heat Map
+
+''' Heat Map
 # Create a pairwise similarity matrix
 unique_names = similarity_df['DrugBank ID'].unique()
 similarity_matrix = pd.DataFrame(0, index=unique_names, columns=unique_names)
