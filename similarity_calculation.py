@@ -24,7 +24,7 @@ if 'SMILES' in df.columns:
 df_new = df_with_smiles[['DrugBank ID','Name', 'SMILES']]
 
 # Find the row for the template, e.g., Bazedoxifene
-template_row = df_new[df_new['Name'] == 'Bazedoxifene']
+template_row = df_new[df_new['Name'] == 'viscosalactone']
 if not template_row.empty:
     print(template_row)
     template_smiles = template_row['SMILES'].values[0]

@@ -59,7 +59,7 @@ similarity_df = pd.DataFrame(similarity_scores)
 similarity_df = similarity_df.sort_values(by='Similarity', ascending=False)
 
 # Save the results to a CSV file
-similarity_df.to_csv('external_similarity_results.csv', index=False)
+#similarity_df.to_csv('external_similarity_results.csv', index=False)
 
 # Display the top results
 print("\nTop similar structures:")
