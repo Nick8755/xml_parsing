@@ -16,7 +16,7 @@ Entrez.email = 'nikita.abramenko@lf1.cuni.cz'
 
 # Define lists of authors and topics
 #authors = ['Bryan Holland', 'Mehmet Oz', 'Anthony Fauci']  # Example authors, adjust as needed
-topics = ['cyanine dyes']  # Example topics, adjust as needed
+topics = ['photodynamic therapy AND immune checkpoint inhibitor']  # Example topics, adjust as needed
 
 # Define date range
 date_range = '("2000/03/01"[Date - Create] : "2024/12/31"[Date - Create])'
@@ -90,4 +90,4 @@ for pmid in id_list:
         df = pd.concat([df, new_row_short], ignore_index=True)
 
 # Save DataFrame to an Excel file
-df.to_csv('PubMed_resultsx_cyanine.csv', index=False)
+df.to_csv('PDT and ICI.csv', index=False)
