@@ -1,0 +1,111 @@
+Entry
+Reviewed
+Entry Name
+Protein names
+Gene Names
+Organism
+Length
+Gene Names (ordered locus)
+Gene Names (ORF)
+Gene Names (primary)
+Gene Names (synonym)
+Organism (ID)
+Proteomes
+Taxonomic lineage
+Taxonomic lineage (Ids)
+Virus hosts
+Alternative products (isoforms)
+Alternative sequence
+Erroneous gene model prediction
+Fragment
+Gene encoded by
+Mass
+Mass spectrometry
+Natural variant
+Non-adjacent residues
+Non-standard residue
+Non-terminal residue
+Polymorphism
+RNA Editing
+Sequence
+Sequence caution
+Sequence conflict
+Sequence uncertainty
+Sequence version
+Absorption
+Active site
+Binding site
+Catalytic activity
+Cofactor
+DNA binding
+EC number
+Function [CC]
+Activity regulation
+Kinetics
+Pathway
+pH dependence
+Redox potential
+Rhea ID
+Site
+Temperature dependence
+Annotation
+Caution
+Keywords
+Keyword ID
+Miscellaneous [CC]
+Protein existence
+Tools
+UniParc
+Comments
+Features
+Interacts with
+Subunit structure
+Developmental stage
+Tissue specificity
+Induction
+Gene Ontology (biological process)
+Gene Ontology (cellular component)
+Gene Ontology (molecular function)
+Gene Ontology IDs
+Gene Ontology (GO)
+Allergenic Properties
+Biotechnological use
+Disruption phenotype
+Involvement in disease
+Mutagenesis
+Pharmaceutical use
+Toxic dose
+Intramembrane
+Subcellular location [CC]
+Topological domain
+Transmembrane
+Chain
+Cross-link
+Disulfide bond
+Glycosylation
+Initiator methionine
+Lipidation
+Modified residue
+Peptide
+Post-translational modification
+Propeptide
+Signal peptide
+Transit peptide
+3D
+Beta strand
+Helix
+Turn
+PubMed ID
+Date of creation
+Date of last modification
+Date of last sequence modification
+Entry version
+Coiled coil
+Compositional bias
+Domain [CC]
+Domain [FT]
+Motif
+Protein families
+Region
+Repeat
+Zinc finger
