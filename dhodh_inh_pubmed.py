@@ -31,18 +31,18 @@ def fetch_pubmed_data(query, email, batch_size=200, retmax=100000, out_csv='dhod
             id_batch = id_list[start:end]
 
         # 4. esummary
-        summary_handle = Entrez.esummary(
-            db="pubmed",
-            id=id_batch)
-        summary_results = Entrez.read(summary_handle)
-        summary_handle.close()
+            summary_handle = Entrez.esummary(
+                db="pubmed",
+                id=id_batch)
+            summary_results = Entrez.read(summary_handle)
+            summary_handle.close()
 
-        for record in summary_results:
-            pmid = record.get('Id', '')
-            title = record.get('Title', '')
-            doi = record.get('DOI', '')
-            csv_writer.writerow([pmid, title, doi])
-        time.sleep(1)
+            for record in summary_results:
+                pmid = record.get('Id', '')
+                title = record.get('Title', '')
+                doi = record.get('DOI', '')
+                csv_writer.writerow([pmid, title, doi])
+            time.sleep(1)
 
     print(f"Data saved to {out_csv}")
 

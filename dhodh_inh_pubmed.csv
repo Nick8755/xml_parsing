@@ -1,4 +1,604 @@
 PMID,Title,DOI
+39710971,Structure-Based Discovery and Development of Highly Potent Dihydroorotate Dehydrogenase Inhibitors for Malaria Chemoprevention.,10.1021/acs.jmedchem.4c02394
+39698280,Off-Target Inhibition of Human Dihydroorotate Dehydrogenase (hDHODH) Highlights Challenges in the Development of Fat Mass and Obesity-Associated Protein (FTO) Inhibitors.,10.1021/acsptsci.4c00533
+39662594,Lipocalin-2 silencing alleviates sepsis-induced liver injury through inhibition of ferroptosis.,10.1016/j.aohep.2024.101756
+39638153,Inhibitors of dihydroorotate dehydrogenase synergize with the broad antiviral activity of 4'-fluorouridine.,10.1016/j.antiviral.2024.106046
+39637752,"N-Phenyl ureidobenzenesulfonates, a novel class of human dihydroorotate dehydrogenase inhibitors inducing differentiation and apoptosis in acute myeloid leukemia cells.",10.1016/j.biopha.2024.117717
+39620199,Virtual screening and molecular dynamics studies of novel small molecules targeting Schistosoma mansoni DHODH: identification of potential inhibitors.,10.1007/s40203-024-00281-6
+39608644,Molecular analysis of the 2022 mpox outbreak and antiviral activity of dihydroorotate dehydrogenase inhibitors against orthopoxviruses.,10.1016/j.antiviral.2024.106043
+39557682,Mechanisms of S-phase arrest and mitochondrial dysfunction in complex III by DHODH inhibitors in tumorigenic TNBC cells.,10.1007/s00418-024-02339-0
+39493470,To quest new targets of Plasmodium parasite and their potential inhibitors to combat antimalarial drug resistance.,10.1007/s12639-024-01687-x
+39475586,"Intrinsic Natural Resistance of Various Plant Pathogens to Ipflufenoquin, a New DHODH (Dihydroorotate Dehydrogenase)-inhibiting Fungicide, in Relation to Unaltered Amino Acid Sequence of the Target Site.",10.1094/PDIS-04-24-0844-RE
+39450509,"Synthesis, XRD structural analysis and theoretical studies of a potential inhibitor against rheumatoid arthritis (RA).",10.1107/S2053229624010106
+39377943,The DHODH inhibitor teriflunomide impedes cell proliferation and enhances chemosensitivity to daunorubicin (DNR) in T-cell acute lymphoblastic leukemia.,10.1007/s00277-024-05998-0
+39325045,Development of a machine learning-based target-specific scoring function for structure-based binding affinity prediction for human dihydroorotate dehydrogenase inhibitors.,10.1002/jcc.27510
+39306285,Orally bioavailable RORγ/DHODH dual host-targeting small molecules with broad-spectrum antiviral activity.,10.1016/j.antiviral.2024.106008
+39284456,Identification of isoquinolinone DHODH inhibitor isosteres.,10.1016/j.bmcl.2024.129965
+39279497,Bone marrow stromal cells enhance differentiation of acute myeloid leukemia induced by pyrimidine synthesis inhibitors.,10.1152/ajpcell.00413.2024
+39264908,"Computer-aided discovery of novel SmDHODH inhibitors for schistosomiasis therapy: Ligand-based drug design, molecular docking, molecular dynamic simulations, drug-likeness, and ADMET studies.",10.1371/journal.pntd.0012453
+39241585,A comprehensive review of synthetic strategies and SAR studies for the discovery of PfDHODH inhibitors as antimalarial agents. Part 2: Non-DSM compounds.,10.1016/j.bioorg.2024.107754
+39195509,Metabolic Plasticity of Glioblastoma Cells in Response to DHODH Inhibitor BAY2402234 Treatment.,10.3390/metabo14080413
+39149561,Radiosynthesis of [(18)F]brequinar for in vivo PET imaging of hDHODH for potential studies of acute myeloid leukemia and cancers.,10.1039/d4md00433g
+39067646,CD44-hyaluronan mediating endocytosis of iron-platinum alloy nanoparticles induces ferroptotic cell death in mesenchymal-state lung cancer cells with tyrosine kinase inhibitor resistance.,10.1016/j.actbio.2024.07.020
+38973593,DHODH inhibition enhances the efficacy of immune checkpoint blockade by increasing cancer cell antigen presentation.,10.7554/eLife.87292
+38941701,Discovery of piperine derivatives as inhibitors of human dihydroorotate dehydrogenase to induce ferroptosis in cancer cells.,10.1016/j.bioorg.2024.107594
+38918775,Targeted inhibition of DHODH is synergistic with BCL2 blockade in HGBCL with concurrent MYC and BCL2 rearrangement.,10.1186/s12885-024-12534-w
+38889244,Discovery of JNJ-74856665: A Novel Isoquinolinone DHODH Inhibitor for the Treatment of AML.,10.1021/acs.jmedchem.4c00809
+38887198,Synthesis and Characterization of DHODH Inhibitors Based on the Vidofludimus Scaffold with Pronounced Anti-SARS-CoV-2 Activity.,10.1002/cmdc.202400292
+38805244,An alternative conformation of the N-terminal loop of human dihydroorotate dehydrogenase drives binding to a potent antiproliferative agent.,10.1107/S2059798324004066
+38757985,Classical swine fever virus non-structural protein 4A recruits dihydroorotate dehydrogenase to facilitate viral replication.,10.1128/jvi.00494-24
+38731401,In Silico Comparison of Bioactive Compounds Characterized from Azadirachta indica with an FDA-Approved Drug against Schistosomal Agents: New Insight into Schistosomiasis Treatment.,10.3390/molecules29091909
+38724483,Structural and Functional Analyses of Inhibition of Human Dihydroorotate Dehydrogenase by Antiviral Furocoumavirin.,10.1021/acs.biochem.4c00120
+38646934,Pyrimidine depletion enhances targeted and immune therapy combinations in acute myeloid leukemia.,10.1172/jci.insight.173646
+38613925,"Discovery of a new class of potent pyrrolo[3,4-c]quinoline-1,3-diones based inhibitors of human dihydroorotate dehydrogenase: Synthesis, pharmacological and toxicological evaluation.",10.1016/j.bioorg.2024.107359
+38575587,POLQ inhibition attenuates the stemness and ferroptosis resistance in gastric cancer cells via downregulation of dihydroorotate dehydrogenase.,10.1038/s41419-024-06618-5
+38558052,Pivotal role of dihydroorotate dehydrogenase as a therapeutic target in adult T-cell leukemia.,10.1111/ejh.14209
+38552939,Involvement of ferroptosis in eribulin-induced cytotoxicity in ovarian clear cell carcinoma.,10.1016/j.ejphar.2024.176544
+38543260,Safety and Tolerability of KIO-101 Eye Drops in Healthy Volunteers and Patients with Ocular Surface Disease-A Phase I Study.,10.3390/pharmaceutics16030367
+38505861,Discovery of Alternative Binding Poses through Fragment-Based Identification of DHODH Inhibitors.,10.1021/acsmedchemlett.3c00543
+38499823,The AI-driven Drug Design (AIDD) platform: an interactive multi-parameter optimization system integrating molecular evolution with physiologically based pharmacokinetic simulations.,10.1007/s10822-024-00552-6
+38496952,Unveiling the Antiviral Capabilities of Targeting Human Dihydroorotate Dehydrogenase against SARS-CoV-2.,10.1021/acsomega.3c07845
+38493638,"A comprehensive review of synthetic strategies and SAR studies for the discovery of PfDHODH inhibitors as antimalarial agents. Part 1: triazolopyrimidine, isoxazolopyrimidine and pyrrole-based (DSM) compounds.",10.1016/j.bioorg.2024.107249
+38480915,DHODH inhibition represents a therapeutic strategy and improves abiraterone treatment in castration-resistant prostate cancer.,10.1038/s41388-024-03005-4
+38452275,Mitochondria-Targeted Prodrug Nanoassemblies for Efficient Ferroptosis-Based Therapy via Devastating Ferroptosis Defense Systems.,10.1021/acsnano.3c10133
+38423231,A novel mitochondria-targeting DHODH inhibitor induces robust ferroptosis and alleviates immune suppression.,10.1016/j.phrs.2024.107115
+38332874,Retinoblastoma vulnerability to combined de novo and salvage pyrimidine ribonucleotide synthesis pharmacologic blockage.,10.1016/j.heliyon.2023.e23831
+38235544,"Identification of dihydroorotate dehydrogenase inhibitor, vidofludimus, as a potent and novel inhibitor for influenza virus.",10.1002/jmv.29372
+38175956,Discovery of Nanomolar Inhibitors for Human Dihydroorotate Dehydrogenase Using Structure-Based Drug Discovery Methods.,10.1021/acs.jcim.3c01358
+38140764,Mechanism of ferroptosis in breast cancer and research progress of natural compounds regulating ferroptosis.,10.1111/jcmm.18044
+38136869,Cloning and Characterization of Yak DHODH Gene and Its Functional Studies in a Bisphenol S-Induced Ferroptosis Model of Fetal Fibroblasts.,10.3390/ani13243832
+38136273,Inhibition of DHODH Enhances Replication-Associated Genomic Instability and Promotes Sensitivity in Endometrial Cancer.,10.3390/cancers15245727
+38065572,Quantitative Systems Toxicology Modeling Informed Safe Dose Selection of Emvododstat in Acute Myeloid Leukemia Patients.,10.1002/cpt.3136
+38042225,Menaquinone-4 attenuates ferroptosis by upregulating DHODH through activation of SIRT1 after subarachnoid hemorrhage.,10.1016/j.freeradbiomed.2023.11.031
+37988466,A Novel mechanism of herbicide action through disruption of pyrimidine biosynthesis.,10.1073/pnas.2313197120
+37984761,Drug repurposing screen identifies vidofludimus calcium and pyrazofurin as novel chemical entities for the development of hepatitis E interventions.,10.1016/j.virs.2023.11.006
+37942637,Recent advances on patents of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors as antimalarial agents.,10.1080/13543776.2023.2280596
+37926553,Discovery a series of novel inhibitors of human dihydroorotate dehydrogenase: Biological activity evaluation and molecular docking.,10.1111/cbdd.14388
+37897437,Deciphering Interactions between Potential Inhibitors and the Plasmodium falciparum DHODH Enzyme: A Computational Perspective.,10.1021/acs.jpcb.3c05738
+37875895,Brequinar inhibits African swine fever virus replication in vitro by activating ferroptosis.,10.1186/s12985-023-02204-x
+37870434,Discovery and Optimization of Novel hDHODH Inhibitors for the Treatment of Inflammatory Bowel Disease.,10.1021/acs.jmedchem.3c01365
+37869665,A bacterial quorum sensing signal is a potent inhibitor of de novo pyrimidine biosynthesis in the globally abundant Emiliania huxleyi.,10.3389/fmicb.2023.1266972
+37859742,Dihydroorotate dehydrogenase promotes cell proliferation and suppresses cell death in esophageal squamous cell carcinoma and colorectal carcinoma.,10.21037/tcr-23-136
+37852795,"Absorption, metabolism and excretion of (14)C-emvododstat following repeat daily oral dose administration in human volunteers using a combination of microtracer radioactivity and high radioactivity doses.",10.1124/dmd.123.001471
+37852322,Mechanisms of antiviral activity of the new hDHODH inhibitor MEDS433 against respiratory syncytial virus replication.,10.1016/j.antiviral.2023.105734
+37821729,"Parasitic Protozoans: Exploring the Potential of N,N'-Bis[2-(5-bromo-7-azabenzimidazol-1-yl)-2-oxoethyl]ethylene-1,3-Diamine and Its Cyclohexyl-1,2-diamine Analogue as TryR and Pf-DHODH Inhibitors.",10.1007/s11686-023-00719-5
+37776013,Revelation of potential drug targets of luteolin in Plasmodium falciparum through multi-target molecular dynamics simulation studies.,10.1080/07391102.2023.2263875
+37752234,Blockade of de novo pyrimidine biosynthesis triggers autophagic degradation of oncoprotein FLT3-ITD in acute myeloid leukemia.,10.1038/s41388-023-02848-7
+37744270,Identification of a dihydroorotate dehydrogenase inhibitor that inhibits cancer cell growth by proteomic profiling.,10.32604/or.2023.030241
+37737220,Diverse evolutionary pathways challenge the use of collateral sensitivity as a strategy to suppress resistance.,10.7554/eLife.85023
+37717657,Mitochondrial-targeted brequinar liposome boosted mitochondrial-related ferroptosis for promoting checkpoint blockade immunotherapy in bladder cancer.,10.1016/j.jconrel.2023.09.024
+37665563,"Discovery of dual-target natural antimalarial agents against DHODH and PMT of Plasmodium falciparum: pharmacophore modelling, molecular docking, quantum mechanics, and molecular dynamics simulations.",10.1080/1062936X.2023.2251876
+37648673,DHODH: a promising target in the treatment of T-cell acute lymphoblastic leukemia.,10.1182/bloodadvances.2023010337
+37583831,Novel Dihydroorotate Dehydrogenase Inhibitors for Treating Acute Myelogenous Leukemia.,10.1021/acsmedchemlett.3c00299
+37579695,Targeting DHODH reveals therapeutic opportunities in ATRA-resistant acute promyelocytic leukemia.,10.1016/j.biopha.2023.115314
+37551689,Medicinal chemistry approaches for the discovery of Plasmodium falciparum dihydroorotate dehydrogenase inhibitors as antimalarial agents.,10.4155/fmc-2023-0113
+37499699,Advanced virtual screening enables the discovery of a host-targeting and broad-spectrum antiviral agent.,10.1016/j.antiviral.2023.105681
+37465297,Novel Dihydroorotate Dehydrogenase Inhibitors for Treating Acute Myelogenous Leukemia.,10.1021/acsmedchemlett.3c00234
+37407687,DHODH inhibitors sensitize to ferroptosis by FSP1 inhibition.,10.1038/s41586-023-06269-0
+37407682,Reply to: DHODH inhibitors sensitize to ferroptosis by FSP1 inhibition.,10.1038/s41586-023-06270-7
+37278823,"A clinical pharmacokinetic drug-drug interaction study between dextromethorphan and emvododstat, a potent anti-SARS-CoV-2 dihydroorotate dehydrogenase inhibitor.",10.1007/s00228-023-03513-4
+37278160,Biochemical characterization of Mycobacterium tuberculosis dihydroorotate dehydrogenase and identification of a selective inhibitor.,10.1002/1873-3468.14680
+37253718,Lysyl oxidase-like 3 restrains mitochondrial ferroptosis to promote liver cancer chemoresistance by stabilizing dihydroorotate dehydrogenase.,10.1038/s41467-023-38753-6
+37150227,Kinetic and structural studies of Mycobacterium tuberculosis dihydroorotate dehydrogenase reveal new insights into class 2 DHODH inhibition.,10.1016/j.bbagen.2023.130378
+37147673,The Warburg effect modulates DHODH role in ferroptosis: a review.,10.1186/s12964-022-01025-9
+37127285,Development of a Potent Nurr1 Agonist Tool for In Vivo Applications.,10.1021/acs.jmedchem.3c00415
+37111739,A Dual Therapy of Nanostructured Lipid Carrier Loaded with Teriflunomide-A Dihydro-Orotate Dehydrogenase Inhibitor and an miR-155-Antagomir in Cuprizone-Induced C57BL/6J Mouse.,10.3390/pharmaceutics15041254
+37100963,"Treatment of Invasive Aspergillosis: How It's Going, Where It's Heading.",10.1007/s11046-023-00727-z
+37088711,"Tiratricol, a thyroid hormone metabolite, has potent inhibitory activity against human dihydroorotate dehydrogenase.",10.1111/cbdd.14256
+37070439,A Patent Review of Human Dihydroorotate Dehydrogenase (hDHODH) Inhibitors as Anticancer Agents and their Other Therapeutic Applications (1999-2022).,10.2174/1574892818666230417094939
+37068330,FDA approved drugs with antiviral activity against SARS-CoV-2: From structure-based repurposing to host-specific mechanisms.,10.1016/j.biopha.2023.114614
+37066260,DHODH inhibition enhances the efficacy of immune checkpoint blockade by increasing cancer cell antigen presentation.,10.1101/2023.04.03.535399
+37058473,GSK-3β inhibition alleviates arthritis pain via reducing spinal mitochondrial reactive oxygen species level and inflammation.,10.1371/journal.pone.0284332
+37026522,LY294002 alleviates bone cancer pain by reducing mitochondrial dysfunction and the inflammatory response.,10.3892/ijmm.2023.5245
+36942513,Dihydroorotate dehydrogenase regulates ferroptosis in neurons after spinal cord injury via the P53-ALOX15 signaling pathway.,10.1111/cns.14150
+36938928,"A pharmacokinetic drug-drug interaction study between rosuvastatin and emvododstat, a potent anti-SARS-CoV-2 (COVID-19) DHODH (dihydroorotate dehydrogenase) inhibitor.",10.1002/prp2.1076
+36825574,Screening for DAX1/EWS-FLI1 functional inhibitors identified dihydroorotate dehydrogenase as a therapeutic target for Ewing's sarcoma.,10.1002/cam4.5741
+36824743,Direct long read visualization reveals metabolic interplay between two antimalarial drug targets.,10.1101/2023.02.13.528367
+36788244,A genome-wide CRISPR-Cas9 knockout screen identifies FSP1 as the warfarin-resistant vitamin K reductase.,10.1038/s41467-023-36446-8
+36760044,Computational multi-target approach to target essential enzymes of Leishmania donovani using comparative molecular dynamic simulations and MMPBSA analysis.,10.1002/pca.3213
+36737723,Depletion of SOD2 enhances nasopharyngeal carcinoma cell radiosensitivity via ferroptosis induction modulated by DHODH inhibition.,10.1186/s12885-022-10465-y
+36700627,High-Throughput Quantitative Glycomics Enabled by 12-plex Isobaric Multiplex Labeling Reagents for Carbonyl-Containing Compound (SUGAR) Tags.,10.1021/acs.jproteome.2c00773
+36700425,"Absorption, distribution, metabolism and excretion of (14)C-Emvododstat following a single oral dose in rats and dogs.",10.1080/00498254.2023.2171925
+36694894,A New Medical Therapy for Multiple Endocrine Neoplasia Type 1?,10.17925/EE.2022.18.2.86
+36692468,Recent approaches in the drug research and development of novel antimalarial drugs with new targets.,10.2478/acph-2023-0001
+36622364,Synergistic Functional Nanomedicine Enhances Ferroptosis Therapy for Breast Tumors by a Blocking Defensive Redox System.,10.1021/acsami.2c19585
+36563943,ML390 inhibits enterovirus 71 replication by targeting de novo pyrimidine biosynthesis pathway.,10.1016/j.antiviral.2022.105498
+36512492,Repurposed dihydroorotate dehydrogenase inhibitors with efficacy against drug-resistant Acinetobacter baumannii.,10.1073/pnas.2213116119
+36490203,Small-molecule metabolites in SARS-CoV-2 treatment: a comprehensive review.,10.1515/hsz-2022-0323
+36453551,Inhibiting the biogenesis of myeloid-derived suppressor cells enhances immunotherapy efficacy against mammary tumor progression.,10.1172/JCI158661
+36453548,Bring on the brequinar: an approach to enforce the differentiation of myeloid-derived suppressor cells.,10.1172/JCI165506
+36435987,"Dihydroorotate dehydrogenase inhibitor olorofim has potent in vitro activity against Microascus/Scopulariopsis, Rasamsonia, Penicillium and Talaromyces species.",10.1111/myc.13548
+36424385,Proof-of-principle studies on a strategy to enhance nucleotide imbalance specifically in cancer cells.,10.1038/s41420-022-01254-4
+36412986,Inhibition of mitochondrial complex III or dihydroorotate dehydrogenase (DHODH) triggers formation of poly(A)(+) RNA foci adjacent to nuclear speckles following activation of ATM (ataxia telangiectasia mutated).,10.1080/15476286.2022.2146919
+36412499,A pharmacokinetic-pharmacodynamic model for chemoprotective agents against malaria.,10.1002/psp4.12875
+36401950,Integrated structure-guided computational design of novel substituted quinolizin-4-ones as Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors.,10.1016/j.compbiolchem.2022.107787
+36396307,"Prospective, randomised, parallel-group, open-label study to evaluate the effectiveness and safety of IMU-838, in combination with oseltamivir, in adults with COVID-19: the IONIC trial protocol.",10.1136/bmjopen-2021-055205
+36372522,Synthesis and biological evaluation of new quinoline-4-carboxylic acid-chalcone hybrids as dihydroorotate dehydrogenase inhibitors.,10.1002/ardp.202200374
+36368321,Cancer-selective metabolic vulnerabilities in MYC-amplified medulloblastoma.,10.1016/j.ccell.2022.10.009
+36351991,"Discovery of potential natural dihydroorotate dehydrogenase inhibitors and their synergism with brequinar via integrated molecular docking, dynamic simulations and in vitro approach.",10.1038/s41598-022-23006-1
+36344676,"DHODH inhibition impedes glioma stem cell proliferation, induces DNA damage, and prolongs survival in orthotopic glioblastoma xenografts.",10.1038/s41388-022-02517-1
+36341997,ENT1 blockade by CNX-774 overcomes resistance to DHODH inhibition in pancreatic cancer.,10.1016/j.canlet.2022.215981
+36329350,Upregulation of cytidine deaminase in NAT1 knockout breast cancer cells.,10.1007/s00432-022-04436-w
+36325389,A new small molecule DHODH-inhibitor [KIO-100 (PP-001)] targeting activated T cells for intraocular treatment of uveitis - A phase I clinical trial.,10.3389/fmed.2022.1023224
+36298835,The Novel hDHODH Inhibitor MEDS433 Prevents Influenza Virus Replication by Blocking Pyrimidine Biosynthesis.,10.3390/v14102281
+36285442,Hoxa9/meis1-transgenic zebrafish develops acute myeloid leukaemia-like disease with rapid onset and high penetrance.,10.1098/rsob.220172
+36242990,"SAR studies toward discovery of emvododstat (PTC299), a potent dihydroorotate dehydrogenase (DHODH) inhibitor.",10.1016/j.ejmech.2022.114826
+36242741,"Safety and Efficacy of Vidofludimus Calcium in Patients Hospitalized with COVID-19: A Double-Blind, Randomized, Placebo-Controlled, Phase 2 Trial.",10.1007/s40121-022-00690-0
+36217901,"A first in man study to evaluate the safety, pharmacokinetics and pharmacodynamics of RP7214, a dihydroorotate dehydrogenase inhibitor in healthy subjects.",10.1111/bcp.15562
+36190114,Structure-Based Prototyping of Allosteric Inhibitors of Human Uridine/Cytidine Kinase 2 (UCK2).,10.1021/acs.biochem.2c00451
+36162075,"Targeting Acute Myelogenous Leukemia Using Potent Human Dihydroorotate Dehydrogenase Inhibitors Based on the 2-Hydroxypyrazolo[1,5-a]pyridine Scaffold: SAR of the Aryloxyaryl Moiety.",10.1021/acs.jmedchem.2c00496
+36134475,Identification of Dihydroorotate Dehydrogenase Inhibitors Using the Cell Painting Assay.,10.1002/cbic.202200475
+36115209,Discovery of potent human dihydroorotate dehydrogenase inhibitors based on a benzophenone scaffold.,10.1016/j.ejmech.2022.114737
+36078133,Molecular Mechanisms of Ferroptosis and Relevance to Cardiovascular Disease.,10.3390/cells11172726
+36055381,Development of a biomarker to monitor target engagement after treatment with dihydroorotate dehydrogenase inhibitors.,10.1016/j.bcp.2022.115237
+36051066,Dihydroorotate dehydrogenase inhibition acts synergistically with tyrosine kinase inhibitors to induce apoptosis of mantle cell lymphoma cells.,10.1002/jha2.434
+36041646,Brequinar and dipyridamole in combination exhibits synergistic antiviral activity against SARS-CoV-2 in vitro: Rationale for a host-acting antiviral treatment strategy for COVID-19.,10.1016/j.antiviral.2022.105403
+36014049,Inhibitors of Nucleotide Biosynthesis as Candidates for a Wide Spectrum of Antiviral Chemotherapy.,10.3390/microorganisms10081631
+35985343,De novo pyrimidine synthesis is a targetable vulnerability in IDH mutant glioma.,10.1016/j.ccell.2022.07.011
+35943801,DHODH is an independent prognostic marker and potent therapeutic target in neuroblastoma.,10.1172/jci.insight.153836
+35925768,N-Heterocyclic 3-Pyridyl Carboxamide Inhibitors of DHODH for the Treatment of Acute Myelogenous Leukemia.,10.1021/acs.jmedchem.2c00788
+35910085,Caffeic Acid Phenethyl Ester as a DHODH Inhibitor and Its Synergistic Anticancer Properties in Combination with 5-Fluorouracil in a Breast Cancer Cell Line.,10.2147/JEP.S365159
+35897941,Regioselective Synthesis of 5- and 3-Hydroxy-N-Aryl-1H-Pyrazole-4-Carboxylates and Their Evaluation as Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.,10.3390/molecules27154764
+35890202,Siccanin Is a Dual-Target Inhibitor of Plasmodium falciparum Mitochondrial Complex II and Complex III.,10.3390/ph15070903
+35869648,"Identification of second generation benzylidene chromanone analogues as novel, potent DHODH inhibitors in acute myeloid leukemia cells.",10.1080/07391102.2022.2103031
+35790845,Cytarabine-induced differentiation of AML cells depends on Chk1 activation and shares the mechanism with inhibitors of DHODH and pyrimidine synthesis.,10.1038/s41598-022-15520-z
+35773274,Dihydroorotate dehydrogenase inhibition reveals metabolic vulnerability in chronic myeloid leukemia.,10.1038/s41419-022-05028-9
+35744791,Identification of Human Dihydroorotate Dehydrogenase Inhibitor by a Pharmacophore-Based Virtual Screening Study.,10.3390/molecules27123660
+35698927,"A double-blind, randomized, placebo-controlled phase 2 trial evaluating the selective dihydroorotate dehydrogenase inhibitor vidofludimus calcium in relapsing-remitting multiple sclerosis.",10.1002/acn3.51574
+35644833,Identification of clinical candidates against West Nile virus by activity screening in vitro and effect evaluation in vivo.,10.1002/jmv.27891
+35640328,A novel series of teriflunomide derivatives as orally active inhibitors of human dihydroorotate dehydrogenase for the treatment of colorectal carcinoma.,10.1016/j.ejmech.2022.114489
+35632670,A Broad Antiviral Strategy: Inhibitors of Human DHODH Pave the Way for Host-Targeting Antivirals against Emerging and Re-Emerging Viruses.,10.3390/v14050928
+35618075,Antiviral activity of brequinar against African swine fever virus infection in vitro.,10.1016/j.virusres.2022.198826
+35586439,Indazole and Benzoisoxazole Compounds as Dihydroorotate Dehydrogenase Inhibitors for Treating Acute Myelogenous Leukemia.,10.1021/acsmedchemlett.2c00150
+35514210,Inhibition of pyrimidine biosynthesis targets protein translation in acute myeloid leukemia.,10.15252/emmm.202115203
+35492218,Inhibitors of dihydroorotate dehydrogenase cooperate with molnupiravir and N4-hydroxycytidine to suppress SARS-CoV-2 replication.,10.1016/j.isci.2022.104293
+35446944,"Favipiravir for Treatment of Outpatients With Asymptomatic or Uncomplicated Coronavirus Disease 2019: A Double-Blind, Randomized, Placebo-Controlled, Phase 2 Trial.",10.1093/cid/ciac312
+35434035,The critical role and molecular mechanisms of ferroptosis in antioxidant systems: a narrative review.,10.21037/atm-21-6942
+35353620,The Emerging Role of Ferroptosis in Sepsis.,10.1089/dna.2021.1072
+35336113,Inactivation of the Pyrimidine Biosynthesis pyrD Gene Negatively Affects Biofilm Formation and Virulence Determinants in the Crohn's Disease-Associated Adherent Invasive Escherichia coli LF82 Strain.,10.3390/microorganisms10030537
+35296419,Development of accelerated high-throughput antiviral screening systems for emerging orthomyxoviruses.,10.1016/j.antiviral.2022.105291
+35223511,"Emvododstat, a Potent Dihydroorotate Dehydrogenase Inhibitor, Is Effective in Preclinical Models of Acute Myeloid Leukemia.",10.3389/fonc.2022.832816
+35202887,Hepatic TGFβr1 Deficiency Attenuates Lipopolysaccharide/D-Galactosamine-Induced Acute Liver Failure Through Inhibiting GSK3β-Nrf2-Mediated Hepatocyte Apoptosis and Ferroptosis.,10.1016/j.jcmgh.2022.02.009
+35191598,Expanding the Repertoire of Low-Molecular-Weight Pentafluorosulfanyl-Substituted Scaffolds.,10.1002/cmdc.202100641
+35189560,Examination of multiple Trypanosoma cruzi targets in a new drug discovery approach for Chagas disease.,10.1016/j.bmc.2021.116577
+35178168,Biaryl Compounds as Dihydroorotate Dehydrogenase Inhibitors for Treating Acute Myelogenous Leukemia (AML).,10.1021/acsmedchemlett.2c00017
+35151222,Recent advances of human dihydroorotate dehydrogenase inhibitors for cancer therapy: Current development and future perspectives.,10.1016/j.ejmech.2022.114176
+35141004,Mitochondrial DHODH regulates hypoxia-inducible factor 1 expression in OTSCC.,
+35045289,Disrupted neural correlates of anesthesia and sleep reveal early circuit dysfunctions in Alzheimer models.,10.1016/j.celrep.2021.110268
+34957834,Discovery of Orally Available Retinoic Acid Receptor-Related Orphan Receptor γ-t/Dihydroorotate Dehydrogenase Dual Inhibitors for the Treatment of Refractory Inflammatory Bowel Disease.,10.1021/acs.jmedchem.1c01746
+34905371,"Design, Synthesis, and Biological Evaluation of a Novel Series of Teriflunomide Derivatives as Potent Human Dihydroorotate Dehydrogenase Inhibitors for Malignancy Treatment.",10.1021/acs.jmedchem.1c01711
+34899685,Mitochondrial-Linked De Novo Pyrimidine Biosynthesis Dictates Human T-Cell Proliferation but Not Expression of Effector Molecules.,10.3389/fimmu.2021.718863
+34877904,Inhibition of pyrimidine biosynthesis by strobilurin derivatives induces differentiation of acute myeloid leukemia cells.,10.1080/10428194.2021.2008382
+34846990,"In vitro metabolism, pharmacokinetics and drug interaction potentials of emvododstat, a DHODH inhibitor.",10.1080/00498254.2021.2010287
+34795852,Heterocyclic Compounds as Dihydroorotate Dehydrogenase Inhibitors for Treating Acute Myelogenous Leukemia (AML).,10.1021/acsmedchemlett.1c00532
+34730931,Identification of Dihydroorotate Dehydrogenase Inhibitors─Indoluidins─That Inhibit Cancer Cell Growth.,10.1021/acschembio.1c00625
+34721394,Teriflunomide Treatment of Multiple Sclerosis Selectively Modulates CD8 Memory T Cells.,10.3389/fimmu.2021.730342
+34704521,Targeting mitochondrial metabolism in acute myeloid leukemia.,10.1080/10428194.2021.1992759
+34666481,Pentafluorosulfanyl (SF(5)) as a Superior (19)F Magnetic Resonance Reporter Group: Signal Detection and Biological Activity of Teriflunomide Derivatives.,10.1021/acssensors.1c01024
+34621112,Molecular docking analysis of Plasmodium falciparum dihydroorotate dehydrogenase towards the design of effective inhibitors.,10.6026/97320630016672
+34577183,Antimalarial Inhibitors Targeting Epigenetics or Mitochondria in Plasmodium falciparum: Recent Survey upon Synthesis and Biological Evaluation of Potential Drugs against Malaria.,10.3390/molecules26185711
+34577124,The Mitochondria-Independent Cytotoxic Effect of Leflunomide on RPMI-8226 Multiple Myeloma Cell Line.,10.3390/molecules26185653
+34516133,Exploring Marine-Derived Ascochlorins as Novel Human Dihydroorotate Dehydrogenase Inhibitors for Treatment of Triple-Negative Breast Cancer.,10.1021/acs.jmedchem.1c01402
+34462431,Therapeutic targeting of both dihydroorotate dehydrogenase and nucleoside transport in MYCN-amplified neuroblastoma.,10.1038/s41419-021-04120-w
+34442810,The New Generation hDHODH Inhibitor MEDS433 Hinders the In Vitro Replication of SARS-CoV-2 and Other Human Coronaviruses.,10.3390/microorganisms9081731
+34391783,Novel quinolone derivatives targeting human dihydroorotate dehydrogenase suppress Ebola virus infection in vitro.,10.1016/j.antiviral.2021.105161
+34353411,"A Combined Chemical, Computational, and In Vitro Approach Identifies SBL-105 as Novel DHODH Inhibitor in Acute Myeloid Leukemia Cells.",10.3727/096504021X16281573507558
+34348625,DHODH Hot Spots: An Underexplored Source to Guide Drug Development Efforts.,10.2174/1568026621666210804122320
+34281290,"Identification of 3,4-Dihydro-2H,6H-pyrimido[1,2-c][1,3]benzothiazin-6-imine Derivatives as Novel Selective Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.",10.3390/ijms22137236
+34123854,Targeting Pyrimidine Metabolism in the Era of Precision Cancer Medicine.,10.3389/fonc.2021.684961
+34116160,Low cytotoxic quinoline-4-carboxylic acids derived from vanillin precursors as potential human dihydroorotate dehydrogenase inhibitors.,10.1016/j.bmcl.2021.128194
+34113829,"DHODH inhibition modulates glucose metabolism and circulating GDF15, and improves metabolic balance.",10.1016/j.isci.2021.102494
+34111397,"Efficacy and safety of dihydroorotate dehydrogenase (DHODH) inhibitors ""leflunomide"" and ""teriflunomide"" in Covid-19: A narrative review.",10.1016/j.ejphar.2021.174233
+34075175,Combination of consensus and ensemble docking strategies for the discovery of human dihydroorotate dehydrogenase inhibitors.,10.1038/s41598-021-91069-7
+33986176,Cell-specific transcriptional control of mitochondrial metabolism by TIF1γ drives erythropoiesis.,10.1126/science.aaz2740
+33981038,DHODH-mediated ferroptosis defence is a targetable vulnerability in cancer.,10.1038/s41586-021-03539-7
+33971967,DHODH and cancer: promising prospects to be explored.,10.1186/s40170-021-00250-z
+33876936,Potent Antimalarials with Development Potential Identified by Structure-Guided Computational Optimization of a Pyrrole-Based Dihydroorotate Dehydrogenase Inhibitor Series.,10.1021/acs.jmedchem.1c00173
+33844533,"Targeting Acute Myelogenous Leukemia Using Potent Human Dihydroorotate Dehydrogenase Inhibitors Based on the 2-Hydroxypyrazolo[1,5-a]pyridine Scaffold: SAR of the Biphenyl Moiety.",10.1021/acs.jmedchem.0c01549
+33835811,Targeting Chikungunya Virus Replication by Benzoannulene Inhibitors.,10.1021/acs.jmedchem.0c02183
+33814517,Gentisyl alcohol and homogentisic acid: Plasmodium falciparum dihydroorotate dehydrogenase inhibitors isolated from fungi.,10.2323/jgam.2020.08.004
+33806898,A Novel Graph Neural Network Methodology to Investigate Dihydroorotate Dehydrogenase Inhibitors in Small Cell Lung Cancer.,10.3390/biom11030477
+33723998,Acridones Are Highly Potent Inhibitors of Toxoplasma gondii Tachyzoites.,10.1021/acsinfecdis.1c00016
+33723432,Peroxisomal-derived ether phospholipids link nucleotides to respirasome assembly.,10.1038/s41589-021-00772-z
+33716051,Effective deploying of a novel DHODH inhibitor against herpes simplex type 1 and type 2 replication.,10.1016/j.antiviral.2021.105057
+33670894,The Synergism between DHODH Inhibitors and Dipyridamole Leads to Metabolic Lethality in Acute Myeloid Leukemia.,10.3390/cancers13051003
+33660144,Rare Pathogenic Variants in Mitochondrial and Inflammation-Associated Genes May Lead to Inflammatory Cardiomyopathy in Chagas Disease.,10.1007/s10875-021-01000-y
+33610916,Inhibition of mitochondrial complex III induces differentiation in acute myeloid leukemia.,10.1016/j.bbrc.2021.02.027
+33603957,Dihydroorotate Dehydrogenase Inhibitors for Treating Acute Myelogenous Leukemia (AML).,10.1021/acsmedchemlett.0c00669
+33571819,Leflunomide an immunomodulator with antineoplastic and antiviral potentials but drug-induced liver injury: A comprehensive review.,10.1016/j.intimp.2021.107398
+33556871,An update review of emerging small-molecule therapeutic options for COVID-19.,10.1016/j.biopha.2021.111313
+33510132,SOX2-dependent expression of dihydroorotate dehydrogenase regulates oral squamous cell carcinoma cell proliferation.,10.1038/s41368-020-00109-x
+33496740,DHODH inhibition synergizes with DNA-demethylating agents in the treatment of myelodysplastic syndromes.,10.1182/bloodadvances.2020001461
+33461455,"In vitro Evaluation and Molecular Dynamics, DFT Guided Investigation of Antimalarial Activity of Ethnomedicinally used Coptis teeta Wall.",10.2174/1386207324666210118095503
+33460737,Investigating dihydroorotate dehydrogenase inhibitor mediated mitochondrial dysfunction in hepatic in vitro models.,10.1016/j.tiv.2021.105096
+33416466,"Inhibition of canine distemper virus replication by blocking pyrimidine nucleotide synthesis with A77 1726, the active metabolite of the anti-inflammatory drug leflunomide.",10.1099/jgv.0.001534
+33406218,A comprehensive drug repurposing study for COVID19 treatment: novel putative dihydroorotate dehydrogenase inhibitors show association to serotonin-dopamine receptors.,10.1093/bib/bbaa379
+33398968,[Structural characteristics and catalytic cycle of dihydroorotate dehydrogenase-a review].,10.13345/j.cjb.200166
+33361312,Atypical Molecular Basis for Drug Resistance to Mitochondrial Function Inhibitors in Plasmodium falciparum.,10.1128/AAC.02143-20
+33344900,The Dihydroorotate Dehydrogenase Inhibitor Brequinar Is Synergistic with ENT1/2 Inhibitors.,10.1021/acsptsci.0c00124
+33297567,"Structural and Biochemical Features of Eimeria tenella Dihydroorotate Dehydrogenase, a Potential Drug Target.",10.3390/genes11121468
+33293343,Leflunomide Suppresses the Growth of LKB1-Inactivated Tumors in the Immune-Competent Host and Attenuates Distant Cancer Metastasis.,10.1158/1535-7163.MCT-20-0567
+33291455,"IMU-838, a Developmental DHODH Inhibitor in Phase II for Autoimmune Disease, Shows Anti-SARS-CoV-2 and Broad-Spectrum Antiviral Efficacy In Vitro.",10.3390/v12121394
+33253576,Store-Operated Calcium Entry as a Therapeutic Target in Acute Pancreatitis: Discovery and Development of Drug-Like SOCE Inhibitors.,10.1021/acs.jmedchem.0c01305
+33251354,"Experimental approach, theoretical investigation and molecular docking of 2- chloro-5-fluoro phenol antibacterial compound.",10.1016/j.heliyon.2020.e05464
+33249060,The DHODH inhibitor PTC299 arrests SARS-CoV-2 replication and suppresses induction of inflammatory cytokines.,10.1016/j.virusres.2020.198246
+33248250,Second-generation immunotherapeutics in multiple sclerosis: can we discard their precursors?,10.1016/j.drudis.2020.11.022
+33214811,Use of Dihydroorotate Dehydrogenase Inhibitors for Treatment of Autoimmune Diseases and Cancer.,10.1021/acsmedchemlett.0c00466
+33201894,Inhibition of the de novo pyrimidine biosynthesis pathway limits ribosomal RNA transcription causing nucleolar stress in glioblastoma cells.,10.1371/journal.pgen.1009117
+33176741,5-aminoimidazole-4-carboxamide ribonucleoside induces differentiation in a subset of primary acute myeloid leukemia blasts.,10.1186/s12885-020-07533-6
+33158577,"Comparative study between the anti-P. falciparum activity of triazolopyrimidine, pyrazolopyrimidine and quinoline derivatives and the identification of new PfDHODH inhibitors.",10.1016/j.ejmech.2020.112941
+33132734,Development of novel pesticides in the 21st century.,10.1584/jpestics.D20-201
+33125935,Rapid determination of nematode cell and organ susceptibility to toxic treatments.,10.1016/j.ijpddr.2020.10.007
+33082276,"Selective Vulnerability to Pyrimidine Starvation in Hematologic Malignancies Revealed by AG-636, a Novel Clinical-Stage Inhibitor of Dihydroorotate Dehydrogenase.",10.1158/1535-7163.MCT-20-0550
+33078092,"Design, synthesis, molecular modeling, and biological evaluation of acrylamide derivatives as potent inhibitors of human dihydroorotate dehydrogenase for the treatment of rheumatoid arthritis.",10.1016/j.apsb.2020.10.008
+33074120,"Potent human dihydroorotate dehydrogenase inhibitory activity of new quinoline-4-carboxylic acids derived from phenolic aldehydes: Synthesis, cytotoxicity, lipophilicity and molecular docking studies.",10.1016/j.bioorg.2020.104373
+33061294,Recent Progress in the Development of New Antimalarial Drugs with Novel Targets.,10.2147/DDDT.S265602
+33054053,"ASLAN003, a potent dihydroorotate dehydrogenase inhibitor for differentiation of acute myeloid leukemia.",10.3324/haematol.2019.230482
+33054042,Mysteries of partial dihydroorotate dehydrogenase inhibition and leukemia terminal differentiation.,10.3324/haematol.2020.254482
+33038285,Selective eradication of pluripotent stem cells by inhibiting DHODH activity.,10.1002/stem.3290
+33007554,"N-phenyl ureidobenzenesulfonates, a novel class of promising human dihydroorotate dehydrogenase inhibitors.",10.1016/j.bmc.2020.115739
+33007394,A carboxylic acid isostere screen of the DHODH inhibitor Brequinar.,10.1016/j.bmcl.2020.127589
+32993173,Potential Anti-SARS-CoV-2 Therapeutics That Target the Post-Entry Stages of the Viral Life Cycle: A Comprehensive Review.,10.3390/v12101092
+32991846,Investigating the amino acid sequences of membrane bound dihydroorotate:quinone oxidoreductases (DHOQOs): Structural and functional implications.,10.1016/j.bbabio.2020.148321
+32955081,Treatment of Coronavirus Disease 2019 Patients With Prolonged Postsymptomatic Viral Shedding With Leflunomide: A Single-center Randomized Controlled Clinical Trial.,10.1093/cid/ciaa1417
+32900849,Exploitation of dihydroorotate dehydrogenase (DHODH) and p53 activation as therapeutic targets: A case study in polypharmacology.,10.1074/jbc.RA119.012056
+32833084,Design and tests of prospective property predictions for novel antimalarial 2-aminopropylaminoquinolones.,10.1007/s10822-020-00333-x
+32829915,Inhibition of porcine epidemic diarrhea virus (PEDV) replication by A77 1726 through targeting JAK and Src tyrosine kinases.,10.1016/j.virol.2020.06.009
+32793904,The DHODH Inhibitor PTC299 Arrests SARS-CoV-2 Replication and Suppresses Induction of Inflammatory Cytokines.,10.1101/2020.08.05.238394
+32761523,Potential treatment of COVID-19 by inhibitors of human dihydroorotate dehydrogenase.,10.1007/s13238-020-00769-9
+32754890,Novel and potent inhibitors targeting DHODH are broad-spectrum antivirals against RNA viruses including newly-emerged coronavirus SARS-CoV-2.,10.1007/s13238-020-00768-w
+32751087,Novel Dihydroorotate Dehydrogenase Inhibitors with Potent Interferon-Independent Antiviral Activity against Mammarenaviruses In Vitro.,10.3390/v12080821
+32735689,Dihydroorotate dehydrogenase inhibitors in SARS-CoV-2 infection.,10.1111/eci.13366
+32696396,A Small-Scale Medication of Leflunomide as a Treatment of COVID-19 in an Open-Label Blank-Controlled Clinical Trial.,10.1007/s12250-020-00258-7
+32669511,"Microbial inhibitors active against Plasmodium falciparum dihydroorotate dehydrogenase derived from an Indonesian soil fungus, Talaromyces pinophilus BioMCC-f.T.3979.",10.2323/jgam.2019.11.007
+32598086,"A77 1726, the active metabolite of the anti-rheumatoid arthritis drug leflunomide, inhibits influenza A virus replication in vitro and in vivo by inhibiting the activity of Janus kinases.",10.1096/fj.201902793RR
+32582763,"Novel Quinazolin-2,4-Dione Hybrid Molecules as Possible Inhibitors Against Malaria: Synthesis and in silico Molecular Docking Studies.",10.3389/fmolb.2020.00105
+32579074,"High-throughput virtual screening approach involving pharmacophore mapping, ADME filtering, molecular docking and MM-GBSA to identify new dual target inhibitors of PfDHODH and PfCytbc1 complex to combat drug resistant malaria.",10.1080/07391102.2020.1784288
+32572069,Replication of Equine arteritis virus is efficiently suppressed by purine and pyrimidine biosynthesis inhibitors.,10.1038/s41598-020-66944-4
+32525770,Dihydroorotate Dehydrogenase Inhibitors Promote Cell Cycle Arrest and Disrupt Mitochondria Bioenergetics in Ramos Cells.,10.2174/1389201021666200611113734
+32496056,"Bifunctional Naphtho[2,3-d][1,2,3]triazole-4,9-dione Compounds Exhibit Antitumor Effects In Vitro and In Vivo by Inhibiting Dihydroorotate Dehydrogenase and Inducing Reactive Oxygen Species Production.",10.1021/acs.jmedchem.0c00512
+32477115,Repositioning an Immunomodulatory Drug Vidofludimus as a Farnesoid X Receptor Modulator With Therapeutic Effects on NAFLD.,10.3389/fphar.2020.00590
+32459610,"Effect of the Intramolecular Hydrogen Bond on the Active Metabolite Analogs of Leflunomide for Blocking the Plasmodium falciparum Dihydroorotate Dehydrogenase Enzyme: QTAIM, NBO, and Docking Study.",10.2174/1573409916666200527133126
+32442424,Enhancing the Antiviral Efficacy of RNA-Dependent RNA Polymerase Inhibition by Combination with Modulators of Pyrimidine Metabolism.,10.1016/j.chembiol.2020.05.002
+32428996,Structural basis for the function and inhibition of dihydroorotate dehydrogenase from Schistosoma mansoni.,10.1111/febs.15367
+32428844,"Vidofludimus calcium, a next generation DHODH inhibitor for the Treatment of relapsing-remitting multiple sclerosis.",10.1016/j.msard.2020.102129
+32361977,"Safety, Tolerability and Pharmacokinetics of Vidofludimus calcium (IMU-838) After Single and Multiple Ascending Oral Doses in Healthy Male Subjects.",10.1007/s13318-020-00623-7
+32353424,Natural product piperine alleviates experimental allergic encephalomyelitis in mice by targeting dihydroorotate dehydrogenase.,10.1016/j.bcp.2020.114000
+32339392,Precision Medicine With Leflunomide: Consideration of the DHODH Haplotype and Plasma Teriflunomide Concentration and Modification of Outcomes in Patients With Rheumatoid Arthritis.,10.1002/acr.24236
+32273345,Genetic ablation of the mitoribosome in the malaria parasite Plasmodium falciparum sensitizes it to antimalarials that target mitochondrial functions.,10.1074/jbc.RA120.012646
+32248693,Lead Optimization of a Pyrrole-Based Dihydroorotate Dehydrogenase Inhibitor Series for the Treatment of Malaria.,10.1021/acs.jmedchem.0c00311
+32212728,Optimization of Tetrahydroindazoles as Inhibitors of Human Dihydroorotate Dehydrogenase and Evaluation of Their Activity and In Vitro Metabolic Stability.,10.1021/acs.jmedchem.9b01658
+32151633,Dihydroorotate dehydrogenase in oxidative phosphorylation and cancer.,10.1016/j.bbadis.2020.165759
+32034120,Replication and ribosomal stress induced by targeting pyrimidine synthesis and cellular checkpoints suppress p53-deficient tumors.,10.1038/s41419-020-2224-7
+31801884,In vitro selection predicts malaria parasite resistance to dihydroorotate dehydrogenase inhibitors in a mouse infection model.,10.1126/scitranslmed.aav1636
+31790334,"An exclusive computational insight toward molecular mechanism of MMV007571, a multitarget inhibitor of Plasmodium falciparum.",10.1080/07391102.2019.1700165
+31766184,"The Development of Novel Compounds Against Malaria: Quinolines, Triazolpyridines, Pyrazolopyridines and Pyrazolopyrimidines.",10.3390/molecules24224095
+31740051,"Cerpegin-derived furo[3,4-c]pyridine-3,4(1H,5H)-diones enhance cellular response to interferons by de novo pyrimidine biosynthesis inhibition.",10.1016/j.ejmech.2019.111855
+31734178,Metabolic Modifier Screen Reveals Secondary Targets of Protein Kinase Inhibitors within Nucleotide Metabolism.,10.1016/j.chembiol.2019.10.012
+31694929,Identification of DHODH as a therapeutic target in small cell lung cancer.,10.1126/scitranslmed.aaw7852
+31665424,The relative rate of kill of the MMV Malaria Box compounds provides links to the mode of antimalarial action and highlights scaffolds of medicinal chemistry interest.,10.1093/jac/dkz443
+31621054,The Selective Oral Immunomodulator Vidofludimus in Patients with Active Rheumatoid Arthritis: Safety Results from the COMPONENT Study.,10.1007/s40268-019-00286-z
+31589372,CF(3) -Pyridinyl Substitution on Antimalarial Therapeutics: Probing Differential Ligand Binding and Dynamical Inhibitory Effects of a Novel Triazolopyrimidine-Based Inhibitor on Plasmodium falciparum Dihydroorotate Dehydrogenase.,10.1002/cbdv.201900365
+31557612,Dihydroorotate dehydrogenase inhibitors in anti-infective drug research.,10.1016/j.ejmech.2019.111681
+31545264,Antiviral effects of selected IMPDH and DHODH inhibitors against foot and mouth disease virus.,10.1016/j.biopha.2019.109305
+31499527,Discovery of a new pyrimidine synthesis inhibitor eradicating glioblastoma-initiating cells.,10.1093/neuonc/noz170
+31431503,The ribonucleoside AICAr induces differentiation of myeloid leukemia by activating the ATR/Chk1 via pyrimidine depletion.,10.1074/jbc.RA119.009396
+31420268,Discovery of small molecule inhibitors of human uridine-cytidine kinase 2 by high-throughput screening.,10.1016/j.bmcl.2019.08.010
+31391321,Targeting pyrimidine synthesis accentuates molecular therapy response in glioblastoma stem cells.,10.1126/scitranslmed.aau4972
+31370178,Structural Optimization and Structure-Activity Relationship of 4-Thiazolidinone Derivatives as Novel Inhibitors of Human Dihydroorotate Dehydrogenase.,10.3390/molecules24152780
+31316493,Phytophthora infestans Dihydroorotate Dehydrogenase Is a Potential Target for Chemical Control - A Comparison With the Enzyme From Solanum tuberosum.,10.3389/fmicb.2019.01479
+31285422,Apogossypol-mediated reorganisation of the endoplasmic reticulum antagonises mitochondrial fission and apoptosis.,10.1038/s41419-019-1759-y
+31211245,Leflunomide Synergizes with Gemcitabine in Growth Inhibition of PC Cells and Impairs c-Myc Signaling through PIM Kinase Targeting.,10.1016/j.omto.2019.04.006
+31132976,An in silico Workflow that Yields Experimentally Comparable Inhibitors for Human Dihydroorotate Dehydrogenase.,10.2174/1573409915666190528114703
+31132601,"Tetrahydro-1H,5H-pyrazolo[1,2-a]pyrazole-1-carboxylates as inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase.",10.1016/j.bioorg.2019.102982
+31087527,A novel series of human dihydroorotate dehydrogenase inhibitors discovered by in vitro screening: inhibition activity and crystallographic binding mode.,10.1002/2211-5463.12658
+31085318,Increased stress associated with head-out plethysmography testing can exacerbate respiratory effects and lead to mortality in rats.,10.1016/j.vascn.2019.106580
+31069275,Cyclization-blocked proguanil as a strategy to improve the antimalarial activity of atovaquone.,10.1038/s42003-019-0397-3
+31047779,Mitochondrial Regulation of the Hippocampal Firing Rate Set Point and Seizure Susceptibility.,10.1016/j.neuron.2019.03.045
+31043571,Teriflunomide treatment for multiple sclerosis modulates T cell mitochondrial respiration with affinity-dependent effects.,10.1126/scitranslmed.aao5563
+31025527,Case report of recalcitrant allergic contact eczema successfully treated with teriflunomide.,10.1111/dth.12947
+30974126,Suppression of pyrimidine biosynthesis by targeting DHODH enzyme robustly inhibits rotavirus replication.,10.1016/j.antiviral.2019.04.005
+30949823,Untargeted LC-MS metabolomic studies of Asteraceae species to discover inhibitors of Leishmania major dihydroorotate dehydrogenase.,10.1007/s11306-019-1520-7
+30940908,The novel dihydroorotate dehydrogenase (DHODH) inhibitor BAY 2402234 triggers differentiation and is effective in the treatment of myeloid malignancies.,10.1038/s41375-019-0461-5
+30938999,"Discovery, Optimization, and Target Identification of Novel Potent Broad-Spectrum Antiviral Inhibitors.",10.1021/acs.jmedchem.9b00091
+30858218,DSM265 at 400 Milligrams Clears Asexual Stage Parasites but Not Mature Gametocytes from the Blood of Healthy Subjects Experimentally Infected with Plasmodium falciparum.,10.1128/AAC.01837-18
+30788082,Bivalent Ligands for Protein Degradation in Drug Discovery.,10.1016/j.csbj.2019.01.006
+30776695,"Ligand-based design, synthesis and biochemical evaluation of potent and selective inhibitors of Schistosoma mansoni dihydroorotate dehydrogenase.",10.1016/j.ejmech.2019.02.018
+30738663,"Synthesis of 2-,4,-6-, and/or 7-substituted quinoline derivatives as human dihydroorotate dehydrogenase (hDHODH) inhibitors and anticancer agents: 3D QSAR-assisted design.",10.1016/j.bmcl.2019.01.038
+30694669,"Correction to Targeting Myeloid Differentiation Using Potent 2-Hydroxypyrazolo[1,5- a]pyridine Scaffold-Based Human Dihydroorotate Dehydrogenase Inhibitors.",10.1021/acs.jmedchem.9b00057
+30685643,Discovery of a novel series of hDHODH inhibitors with anti-pulmonary fibrotic activities.,10.1016/j.bioorg.2019.01.011
+30664899,Structural basis for the design of selective inhibitors for Schistosoma mansoni dihydroorotate dehydrogenase.,10.1016/j.biochi.2019.01.006
+30663496,"Re-evaluation of Brequinar sodium, a dihydroorotate dehydrogenase inhibitor.",10.1080/15257770.2018.1508692
+30626105,Novel Characteristics of Mitochondrial Electron Transport Chain from Eimeria tenella.,10.3390/genes10010029
+30529545,"Hydroxyazole scaffold-based Plasmodium falciparum dihydroorotate dehydrogenase inhibitors: Synthesis, biological evaluation and X-ray structural studies.",10.1016/j.ejmech.2018.11.044
+30449682,Reactivation of Dihydroorotate Dehydrogenase-Driven Pyrimidine Biosynthesis Restores Tumor Growth of Respiration-Deficient Cancer Cells.,10.1016/j.cmet.2018.10.014
+30375858,Identification and Mechanistic Understanding of Dihydroorotate Dehydrogenase Point Mutations in Plasmodium falciparum that Confer in Vitro Resistance to the Clinical Candidate DSM265.,10.1021/acsinfecdis.8b00211
+30352802,"Targeting of Hematologic Malignancies with PTC299, A Novel Potent Inhibitor of Dihydroorotate Dehydrogenase with Favorable Pharmaceutical Properties.",10.1158/1535-7163.MCT-18-0863
+30351438,Dihydroorotate dehydrogenase inhibitor olorofim exhibits promising activity against all clinically relevant species within Aspergillus section Terrei.,10.1093/jac/dky329
+30347213,Revisiting the role of dihydroorotate dehydrogenase as a therapeutic target for cancer.,10.1016/j.pharmthera.2018.10.012
+30318938,The emergence of dihydroorotate dehydrogenase (DHODH) as a therapeutic target in acute myeloid leukemia.,10.1080/14728222.2018.1536748
+30233375,Selective Cytotoxicity of Dihydroorotate Dehydrogenase Inhibitors to Human Cancer Cells Under Hypoxia and Nutrient-Deprived Conditions.,10.3389/fphar.2018.00997
+30200251,Bombyx mori Dihydroorotate Dehydrogenase: Knockdown Inhibits Cell Growth and Proliferation via Inducing Cell Cycle Arrest.,10.3390/ijms19092581
+30197997,Isoxazolopyrimidine-Based Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase with Antimalarial Activity.,10.1021/acsomega.8b01573
+30145372,Natural products as inhibitors of Leishmania major dihydroorotate dehydrogenase.,10.1016/j.ejmech.2018.08.033
+30144461,Inhibiting pyrimidine biosynthesis impairs Ebola virus replication through depletion of nucleoside pools and activation of innate immune responses.,10.1016/j.antiviral.2018.08.012
+30019917,Plasmodium falciparum dihydroorotate dehydrogenase: a drug target against malaria.,10.4155/fmc-2017-0250
+29939742,"Targeting Myeloid Differentiation Using Potent 2-Hydroxypyrazolo[1,5- a]pyridine Scaffold-Based Human Dihydroorotate Dehydrogenase Inhibitors.",10.1021/acs.jmedchem.8b00373
+29909069,"Antimalarial activity of single-dose DSM265, a novel plasmodium dihydroorotate dehydrogenase inhibitor, in patients with uncomplicated Plasmodium falciparum or Plasmodium vivax malaria infection: a proof-of-concept, open-label, phase 2a study.",10.1016/S1473-3099(18)30309-8
+29886824,QSAR Studies of Halogenated Pyrimidine Derivatives as Inhibitors of Human Dihydroorotate Dehydrogenase Using Modified Bee Algorithm.,10.2174/1386207321666180611092540
+29880605,Pharmacological inhibition of dihydroorotate dehydrogenase induces apoptosis and differentiation in acute myeloid leukemia cells.,10.3324/haematol.2018.188185
+29794978,"Synthesis, Design, and Structure⁻Activity Relationship of the Pyrimidone Derivatives as Novel Selective Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.",10.3390/molecules23061254
+29727569,"Design, Synthesis, and Biological Evaluation of 4-Quinoline Carboxylic Acids as Inhibitors of Dihydroorotate Dehydrogenase.",10.1021/acs.jmedchem.7b01862
+29723133,Antipyrimidine effects of five different pyrimidine de novo synthesis inhibitors in three head and neck cancer cell lines.,10.1080/15257770.2018.1460479
+29672874,Review article: novel oral-targeted therapies in inflammatory bowel disease.,10.1111/apt.14669
+29628435,Dependence on the Pyrimidine Biosynthetic Enzyme DHODH Is a Synthetic Lethal Vulnerability in Mutant KRAS-Driven Cancers.,10.1016/j.chembiol.2018.03.005
+29621808,"In Vitro Human Dihydroorotate Dehydrogenase Inhibitory, Anti-inflammatory and Cytotoxic Activities of Alkaloids from the Seeds of Nigella glandulifera.",10.1055/a-0598-4866
+29582555,"Coptisine, a natural alkaloid from Coptidis Rhizoma, inhibits plasmodium falciparum dihydroorotate dehydrogenase.",10.1111/cbdd.13197
+29549331,A DHODH inhibitor increases p53 synthesis and enhances tumor cell killing by p53 degradation blockage.,10.1038/s41467-018-03441-3
+29500302,Oral Therapies for Multiple Sclerosis.,10.1101/cshperspect.a032011
+29491257,Dihydroorotate Dehydrogenase as a Target for the Development of Novel Helicobacter pylori-Specific Antimicrobials.,10.1248/cpb.c17-00796
+29488678,"Monotherapy with a novel intervenolin derivative, AS-1934, is an effective treatment for Helicobacter pylori infection.",10.1111/hel.12470
+29467002,"Intraocular DHODH-inhibitor PP-001 suppresses relapsing experimental uveitis and cytokine production of human lymphocytes, but not of RPE cells.",10.1186/s12974-018-1088-6
+29358052,Lipids Shape the Electron Acceptor-Binding Site of the Peripheral Membrane Protein Dihydroorotate Dehydrogenase.,10.1016/j.chembiol.2017.12.012
+29336544,Identification of Collateral Sensitivity to Dihydroorotate Dehydrogenase Inhibitors in Plasmodium falciparum.,10.1021/acsinfecdis.7b00217
+29321371,Assessing drug efficacy against Plasmodium falciparum liver stages in vivo.,10.1172/jci.insight.92587
+29316525,"Design, synthesis, and biological evaluation of novel substituted benzamide derivatives bearing a 1,2,3-triazole moiety as potent human dihydroorotate dehydrogenase inhibitors.",10.1016/j.bioorg.2017.12.025
+29315647,"Antiviral activity of A771726, the active metabolite of leflunomide, against Junín virus.",10.1002/jmv.25024
+29290623,Identification of New Activators of Mitochondrial Fusion Reveals a Link between Mitochondrial Morphology and Pyrimidine Metabolism.,10.1016/j.chembiol.2017.12.001
+29221122,Checkpoint kinase 1 inhibition sensitises transformed cells to dihydroorotate dehydrogenase inhibition.,10.18632/oncotarget.19199
+29216395,A Randomized Trial Evaluating the Prophylactic Activity of DSM265 Against Preerythrocytic Plasmodium falciparum Infection During Controlled Human Malarial Infection by Mosquito Bites and Direct Venous Inoculation.,10.1093/infdis/jix613
+29148803,HsDHODH Microdomain-Membrane Interactions Influenced by the Lipid Composition.,10.1021/acs.jpcb.7b09642
+29132266,"In-Silico molecular docking and simulation studies on novel chalcone and flavone hybrid derivatives with 1, 2, 3-triazole linkage as vital inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase.",10.1080/07391102.2017.1404935
+29119937,Use of human Dihydroorotate Dehydrogenase (hDHODH) Inhibitors in Autoimmune Diseases and New Perspectives in Cancer Therapy.,10.2174/1574892812666171108124218
+29091770,The mTORC1 Signaling Network Senses Changes in Cellular Purine Nucleotide Levels.,10.1016/j.celrep.2017.10.029
+28961865,Comparison of the susceptibility of Plasmodium knowlesi and Plasmodium falciparum to antimalarial agents.,10.1093/jac/dkx279
+28941392,"Liquid phase combinatorial synthesis of 1,2,5-trisubstituted benzimidazole derivatives as human DHODH inhibitors.",10.1016/j.bioorg.2017.08.016
+28928900,"Dihydroorotate dehydrogenase Inhibitors Target c-Myc and Arrest Melanoma, Myeloma and Lymphoma cells at S-phase.",10.7150/jca.14835
+28890395,The antifungal arsenal: alternative drugs and future targets.,10.1016/j.ijantimicag.2017.09.002
+28833638,"Design, Synthesis, and Characterization of Brequinar Conjugates as Probes to Study DHODH Inhibition.",10.1002/chem.201702999
+28807907,Original Chemical Series of Pyrimidine Biosynthesis Inhibitors That Boost the Antiviral Interferon Response.,10.1128/AAC.00383-17
+28782186,Application of the Pentafluorosulfanyl Group as a Bioisosteric Replacement.,10.1002/cmdc.201700356
+28750572,Small molecules as therapy for uveitis: a selected perspective of new and developing agents.,10.1080/14656566.2017.1361408
+28677607,"Design, synthesis, crystal structure and in vitro cytotoxic properties of a novel Schiff base derived from indole and biphenyl.",10.1107/S2053229617009044
+28669445,Interconvertible geometric isomers of Plasmodium falciparum dihydroorotate dehydrogenase inhibitors exhibit multiple binding modes.,10.1016/j.bmcl.2017.06.052
+28666740,The dihydroorotate dehydrogenases: Past and present.,10.1016/j.abb.2017.06.019
+28651831,Multicomplex-based pharmacophore modeling coupled with molecular dynamics simulations: An efficient strategy for the identification of novel inhibitors of PfDHODH.,10.1016/j.jmgm.2017.04.025
+28555543,Broad-spectrum inhibition of common respiratory RNA viruses by a pyrimidine synthesis inhibitor with involvement of the host antiviral response.,10.1099/jgv.0.000758
+28458037,Human pyrimidine nucleotide biosynthesis as a target for antiviral chemotherapy.,10.1016/j.copbio.2017.03.010
+30108840,"Synthesis, structure-activity relationship and binding mode analysis of 4-thiazolidinone derivatives as novel inhibitors of human dihydroorotate dehydrogenase.",10.1039/c7md00081b
+28435533,Discovery of Antimalarial Azetidine-2-carbonitriles That Inhibit P. falciparum Dihydroorotate Dehydrogenase.,10.1021/acsmedchemlett.7b00030
+28363636,"Safety, tolerability, pharmacokinetics, and activity of the novel long-acting antimalarial DSM265: a two-part first-in-human phase 1a/1b randomised study.",10.1016/S1473-3099(17)30171-8
+28333310,Dihydroorotate dehydrogenase inhibitor F901318 has potent in vitro activity against Scedosporium species and Lomentospora prolificans.,10.1093/jac/dkx065
+28286324,Effects of dihydroorotate dehydrogenase (DHODH) inhibitors on the growth of Theileria equi and Babesia caballi in vitro.,10.1016/j.exppara.2017.03.002
+28270195,"Lapachol, a compound targeting pyrimidine metabolism, ameliorates experimental autoimmune arthritis.",10.1186/s13075-017-1236-x
+28255082,PTEN Regulates Glutamine Flux to Pyrimidine Synthesis and Sensitivity to Dihydroorotate Dehydrogenase Inhibition.,10.1158/2159-8290.CD-16-0612
+28235702,"Design, synthesis, biological evaluation and X-ray structural studies of potent human dihydroorotate dehydrogenase inhibitors based on hydroxylated azole scaffolds.",10.1016/j.ejmech.2017.02.017
+28196676,"Dihydroorotate dehydrogenase (DHODH) inhibitors affect ATP depletion, endogenous ROS and mediate S-phase arrest in breast cancer cells.",10.1016/j.biochi.2017.02.003
+29979514,"[Design, synthesis and structure-activity relationship studies of human dihydroorotate dehydrogenase inhibitors].",
+28118956,Design and synthesis of potent substrate-based inhibitors of the Trypanosoma cruzi dihydroorotate dehydrogenase.,10.1016/j.bmc.2017.01.009
+27994748,Development of ML390: A Human DHODH Inhibitor That Induces Differentiation in Acute Myeloid Leukemia.,10.1021/acsmedchemlett.6b00316
+27906623,Orotate (orotic acid): An essential and versatile molecule.,10.1080/15257770.2016.1147580
+27904878,De Novo Pyrimidine Biosynthesis Connects Cell Integrity to Amphotericin B Susceptibility in Cryptococcus neoformans.,10.1128/mSphere.00191-16
+27893848,The Open Form Inducer Approach for Structure-Based Drug Design.,10.1371/journal.pone.0167078
+27874068,Identification of inhibitors that dually target the new permeability pathway and dihydroorotate dehydrogenase in the blood stage of Plasmodium falciparum.,10.1038/srep37502
+27834347,A new target for differentiation therapy in AML.,10.1038/cr.2016.130
+27791100,F901318 represents a novel class of antifungal drug that inhibits dihydroorotate dehydrogenase.,10.1073/pnas.1608304113
+27597161,"Discovery of a new structural class of competitive hDHODH inhibitors with in vitro and in vivo anti-inflammatory, immunosuppressive effects.",10.1016/j.ejphar.2016.09.004
+27766282,Induction of gut regulatory CD39(+) T cells by teriflunomide protects against EAE.,10.1212/NXI.0000000000000291
+27744189,"Evaluation of 7-arylaminopyrazolo[1,5-a]pyrimidines as anti-Plasmodium falciparum, antimalarial, and Pf-dihydroorotate dehydrogenase inhibitors.",10.1016/j.ejmech.2016.09.073
+27721149,Dihydroorotate dehydrogenase: A drug target for the development of antimalarials.,10.1016/j.ejmech.2016.09.085
+27658519,In vitro evaluation of physiologically relevant concentrations of teriflunomide on activation and proliferation of primary rodent microglia.,10.1186/s12974-016-0715-3
+27641613,A Triazolopyrimidine-Based Dihydroorotate Dehydrogenase Inhibitor with Improved Drug-like Properties for Treatment and Prevention of Malaria.,10.1021/acsinfecdis.6b00144
+27641501,Inhibition of Dihydroorotate Dehydrogenase Overcomes Differentiation Blockade in Acute Myeloid Leukemia.,10.1016/j.cell.2016.08.057
+27438595,Drug search for leishmaniasis: a virtual screening approach by grid computing.,10.1007/s10822-016-9921-4
+27391060,Inhibition of canonical WNT/β-catenin signaling is involved in leflunomide (LEF)-mediated cytotoxic effects on renal carcinoma cells.,10.18632/oncotarget.10409
+27374097,Metabolomics profiles delineate uridine deficiency contributes to mitochondria-mediated apoptosis induced by celastrol in human acute promyelocytic leukemia cells.,10.18632/oncotarget.10286
+27310104,Identification of novel PfDHODH inhibitors as antimalarial agents via pharmacophore-based virtual screening followed by molecular docking and in vivo antimalarial activity.,10.1080/1062936X.2016.1189959
+27262062,Insights into the pyrimidine biosynthetic pathway of human malaria parasite Plasmodium falciparum as chemotherapeutic target.,10.1016/j.apjtm.2016.04.012
+27220723,"Design, synthesis and inhibitory activity against human dihydroorotate dehydrogenase (hDHODH) of 1,3-benzoazole derivatives bearing amide units.",10.1016/j.bmcl.2016.05.016
+27133204,A high-throughput fluorescence-based assay for Plasmodium dihydroorotate dehydrogenase inhibitor screening.,10.1016/j.ab.2016.04.013
+27127993,Tetrahydro-2-naphthyl and 2-Indanyl Triazolopyrimidines Targeting Plasmodium falciparum Dihydroorotate Dehydrogenase Display Potent and Selective Antimalarial Activity.,10.1021/acs.jmedchem.6b00275
+27018887,Parallel shRNA and CRISPR-Cas9 screens enable antiviral drug target identification.,10.1038/nchembio.2050
+26915022,Identification of New Human Malaria Parasite Plasmodium falciparum Dihydroorotate Dehydrogenase Inhibitors by Pharmacophore and Structure-Based Virtual Screening.,10.1021/acs.jcim.5b00680
+26911561,QSAR study on the antimalarial activity of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors.,10.1080/1062936X.2015.1134652
+26751736,Identification of a small molecule that simultaneously suppresses virulence and antibiotic resistance of Pseudomonas aeruginosa.,10.1038/srep19141
+26707392,Comparative study between 3D-QSAR and Docking-Based Pharmacophore models for potent Plasomodium falciparum dihydroorotate dehydrogenase inhibitors.,10.1016/j.bmcl.2015.12.043
+26666931,Discovery of Dual-Stage Malaria Inhibitors with New Targets.,10.1128/AAC.02110-15
+26660188,"Quantitation of Teriflunomide in Human Serum/Plasma Across a 40,000-Fold Concentration Range by LC/MS/MS.",10.1007/978-1-4939-3252-8_21
+26656485,The mechanistic study of Leishmania major dihydro-orotate dehydrogenase based on steady- and pre-steady-state kinetic analysis.,10.1042/BJ20150921
+26593978,Respiratory syncytial virus infection in macaques is not suppressed by intranasal sprays of pyrimidine biosynthesis inhibitors.,10.1016/j.antiviral.2015.11.006
+26443076,Rational Design of Benzylidenehydrazinyl-Substituted Thiazole Derivatives as Potent Inhibitors of Human Dihydroorotate Dehydrogenase with in Vivo Anti-arthritic Activity.,10.1038/srep14836
+26349969,Evaluation of the leishmanicidal and cytotoxic effects of inhibitors for microorganism metabolic pathway enzymes.,10.1016/j.biopha.2015.07.040
+26258606,A Teach-Discover-Treat Application of ZincPharmer: An Online Interactive Pharmacophore Modeling and Virtual Screening Tool.,10.1371/journal.pone.0134697
+26197515,Computational and Investigative Study of Flavonoids Active Against Typanosoma cruzi and Leishmania spp.,
+26180101,A long-duration dihydroorotate dehydrogenase inhibitor (DSM265) for prevention and treatment of malaria.,10.1126/scitranslmed.aaa6645
+26088338,Benzimidazole derivatives as potential dual inhibitors for PARP-1 and DHODH.,10.1016/j.bmc.2015.05.051
+26087682,Insights into the mechanism of oxidation of dihydroorotate to orotate catalysed by human class 2 dihydroorotate dehydrogenase: a QM/MM free energy study.,10.1039/c5cp02016f
+26079043,Original 2-(3-Alkoxy-1H-pyrazol-1-yl)azines Inhibitors of Human Dihydroorotate Dehydrogenase (DHODH).,10.1021/acs.jmedchem.5b00606
+26059768,Pyrimidine Metabolism: Dynamic and Versatile Pathways in Pathogens and Cellular Development.,10.1016/j.jgg.2015.04.004
+25961853,Pharmacophore modeling for anti-Chagas drug design using the fragment molecular orbital method.,10.1371/journal.pone.0125829
+25945708,The X-ray structure of Plasmodium falciparum dihydroorotate dehydrogenase bound to a potent and selective N-phenylbenzamide inhibitor reveals novel binding-site interactions.,10.1107/S2053230X15000989
+25851105,On the interactions of leflunomide and teriflunomide within receptor cavity--NMR studies and energy calculations.,10.1007/s00894-015-2643-z
+25769973,In-silico analyses of natural products on leishmania enzyme targets.,10.2174/138955751503150312141854
+25709412,Teriflunomide for the treatment of relapsing-remitting multiple sclerosis: patient preference and adherence.,10.2147/PPA.S61651
+25658737,[Stimulation of the antiviral innate immune response by pyrimidine biosynthesis inhibitors: a surprise of phenotypic screening].,10.1051/medsci/20153101019
+25626527,Novel Diketopiperazine Dihydroorotate Dehydrogenase Inhibitors Purified from Traditional Tibetan Animal Medicine Osteon Myospalacem Baileyi.,10.1111/cbdd.12530
+25580811,"Design, synthesis, X-ray crystallographic analysis, and biological evaluation of thiazole derivatives as potent and selective inhibitors of human dihydroorotate dehydrogenase.",10.1021/jm501127s
+25558988,Original 2-(3-alkoxy-1H-pyrazol-1-yl)pyrimidine derivatives as inhibitors of human dihydroorotate dehydrogenase (DHODH).,10.1021/jm501446r
+25543684,"Understanding the structural requirements in diverse scaffolds for the inhibition of P. falciparum dihydroorotate dehydrogenase (PfDHODH) using 2D-QSAR, 3D-pharmacophore and structure-based energy- optimized pharmacophore models.",10.2174/1386207318666141229124503
+25515581,A new small molecule for treating inflammation and chorioretinal neovascularization in relapsing-remitting and chronic experimental autoimmune uveitis.,10.1167/iovs.14-15518
+25379019,Inhibition of p70 S6 kinase (S6K1) activity by A77 1726 and its effect on cell proliferation and cell cycle progress.,10.1016/j.neo.2014.08.006
+25375376,A sustained deficiency of mitochondrial respiratory complex III induces an apoptotic cell death through the p53-mediated inhibition of pro-survival activities of the activating transcription factor 4.,10.1038/cddis.2014.469
+25331708,Atovaquone tolerance in Plasmodium falciparum parasites selected for high-level resistance to a dihydroorotate dehydrogenase inhibitor.,10.1128/AAC.02347-14
+24929289,"Design, synthesis and pharmacological evaluation of novel substituted quinoline-2-carboxamide derivatives as human dihydroorotate dehydrogenase (hDHODH) inhibitors and anticancer agents.",10.1016/j.ejmech.2014.05.064
+24801997,Fluorine modulates species selectivity in the triazolopyrimidine class of Plasmodium falciparum dihydroorotate dehydrogenase inhibitors.,10.1021/jm500481t
+24782313,In vitro resistance selections for Plasmodium falciparum dihydroorotate dehydrogenase inhibitors give mutants with multiple point mutations in the drug-binding site and altered growth.,10.1074/jbc.M114.558353
+24746616,Production of superoxide/H2O2 by dihydroorotate dehydrogenase in rat skeletal muscle mitochondria.,10.1016/j.freeradbiomed.2014.04.007
+24740824,Teriflunomide and its mechanism of action in multiple sclerosis.,10.1007/s40265-014-0212-x
+24655039,E-pharmacophore and molecular dynamics study of flavonols and dihydroflavonols as inhibitors against dihydroorotate dehydrogenase.,10.2174/1386207317666140321115128
+24566615,"Immunosuppressive agent leflunomide: a SWNTs-immobilized dihydroortate dehydrogenase inhibitory effect and computational study of its adsorption properties on zigzag single walled (6,0) carbon and boron nitride nanotubes as controlled drug delivery devices.",10.1016/j.ejps.2014.02.006
+24504131,Development of a human dihydroorotate dehydrogenase (hDHODH) pharma-similarity index approach with scaffold-hopping strategy for the design of novel potential inhibitors.,10.1371/journal.pone.0087960
+24463105,Antileishmanial phytochemical phenolics: molecular docking to potential protein targets.,10.1016/j.jmgm.2013.12.010
+24401337,Novel inhibitors of the Plasmodium falciparum electron transport chain.,10.1017/S0031182013001571
+24391728,Anticancer properties of distinct antimalarial drug classes.,10.1371/journal.pone.0082962
+24381157,Harnessing evolutionary fitness in Plasmodium falciparum for drug discovery and suppressing resistance.,10.1073/pnas.1320886110
+24189582,Babesia bovis dihydroorotate dehydrogenase (BboDHODH) is a novel molecular target of drug for bovine babesiosis.,10.1292/jvms.13-0419
+24182769,The effects of teriflunomide on lymphocyte subpopulations in human peripheral blood mononuclear cells in vitro.,10.1016/j.jneuroim.2013.10.003
+24149002,Assessment of drug candidates for broad-spectrum antiviral therapy targeting cellular pyrimidine biosynthesis.,10.1016/j.antiviral.2013.10.003
+24073986,Novel selective and potent inhibitors of malaria parasite dihydroorotate dehydrogenase: discovery and optimization of dihydrothiophenone derivatives.,10.1021/jm400938g
+24047257,Pharmacophore-based discovery of new human dihydroorotate dehydrogenase inhibitor.,10.2174/15734064113096660047
+24024949,Targeting the mitochondrial electron transport chain of Plasmodium falciparum: new strategies towards the development of improved antimalarials for the elimination era.,10.4155/fmc.13.121
+24013224,Inhibition of the mitochondrial pyrimidine biosynthesis enzyme dihydroorotate dehydrogenase by doxorubicin and brequinar sensitizes cancer cells to TRAIL-induced apoptosis.,10.1038/onc.2013.313
+23972099,Evaluation of WO2013076170: the use of a dihydroorotate dehydrogenase inhibitor for the treatment of psoriasis.,10.1517/13543776.2013.831075
+23930152,SAR Based Optimization of a 4-Quinoline Carboxylic Acid Analog with Potent Anti-Viral Activity.,10.1021/ml300464h
+23768800,An in silico structure-based approach to anti-infective drug discovery.,10.1017/S0031182013000693
+23747278,Identification of dihydroorotate dehydrogenase as a relevant drug target for 1-hydroxyquinolones in Toxoplasma gondii.,10.1016/j.molbiopara.2013.05.008
+23717205,"Asexual populations of the human malaria parasite, Plasmodium falciparum, use a two-step genomic strategy to acquire accurate, beneficial DNA amplifications.",10.1371/journal.ppat.1003375
+23714018,Development of docking-based 3D QSAR models for the design of substituted quinoline derivatives as human dihydroorotate dehydrogenase (hDHODH) inhibitors.,10.1080/1062936X.2013.792871
+23452331,On dihydroorotate dehydrogenases and their inhibitors and uses.,10.1021/jm301848w
+23382788,"3D-QSAR studies of triazolopyrimidine derivatives of Plasmodium falciparum dihydroorotate dehydrogenase inhibitors using a combination of molecular dynamics, docking, and genetic algorithm-based methods.",10.1007/s12154-012-0072-3
+23353582,In silico identification of novel inhibitors against Plasmodium falciparum dihydroorate dehydrogenase.,10.1016/j.jmgm.2012.11.010
+23143678,The role of fluorine in stabilizing the bioactive conformation of dihydroorotate dehydrogenase inhibitors.,10.1007/s00894-012-1643-5
+23116399,Target sites for the design of anti-trypanosomatid drugs based on the structure of dihydroorotate dehydrogenase.,10.2174/1381612811319140011
+23078909,"Efficacy, safety and tolerability of vidofludimus in patients with inflammatory bowel disease: the ENTRANCE study.",10.1016/j.crohns.2012.09.016
+22984987,Discovery of diverse human dihydroorotate dehydrogenase inhibitors as immunosuppressive agents by structure-based virtual screening.,10.1021/jm300630p
+22920152,QSAR study on a series of aryl carboxylic acid amide derivatives as potential inhibitors of dihydroorotate dehydrogenase (DHODH).,10.2174/1573406411309020007
+22877245,Bioisosteric transformations and permutations in the triazolopyrimidine scaffold to identify the minimum pharmacophore required for inhibitory activity against Plasmodium falciparum dihydroorotate dehydrogenase.,10.1021/jm300351w
+22815870,The aryl hydrocarbon receptor mediates leflunomide-induced growth inhibition of melanoma cells.,10.1371/journal.pone.0040926
+22691298,Vidofludimus inhibits colonic interleukin-17 and improves hapten-induced colitis in rats by a unique dual mode of action.,10.1124/jpet.112.192203
+22621375,Factors influencing the specificity of inhibitor binding to the human and malaria parasite dihydroorotate dehydrogenases.,10.1021/jm300157n
+22609757,"Immunosuppression with 4SC-101, a novel inhibitor of dihydroorotate dehydrogenase, in a rat model of renal transplantation.",10.1097/TP.0b013e31824fd861
+22580605,Inhibition of autophagy and tumor growth in colon cancer by miR-502.,10.1038/onc.2012.167
+22580100,Biochemical and molecular characterization of the pyrimidine biosynthetic enzyme dihydroorotate dehydrogenase from Toxoplasma gondii.,10.1016/j.molbiopara.2012.04.009
+22542640,Crystal structure of dihydroorotate dehydrogenase from Leishmania major.,10.1016/j.biochi.2012.04.003
+22516927,"D282, a non-nucleoside inhibitor of influenza virus infection that interferes with de novo pyrimidine biosynthesis.",10.3851/IMP2105
+22312003,Inhibition of pyrimidine synthesis reverses viral virulence factor-mediated block of mRNA nuclear export.,10.1083/jcb.201107058
+22245049,"New inhibitors of dihydroorotate dehydrogenase (DHODH) based on the 4-hydroxy-1,2,5-oxadiazol-3-yl (hydroxyfurazanyl) scaffold.",10.1016/j.ejmech.2011.12.038
+22242798,CoMFA and CoMSIA studies on aryl carboxylic acid amide derivatives as dihydroorotate dehydrogenase (DHODH) inhibitors.,10.2174/157340912803519598
+22229697,"Profiling of dihydroorotate dehydrogenase, p38 and JAK inhibitors in the rat adjuvant-induced arthritis model: a translational study.",10.1111/j.1476-5381.2012.01836.x
+22078215,Biaryl analogues of teriflunomide as potent DHODH inhibitors.,10.1016/j.bmcl.2011.10.052
+22052286,An aggregation sensing reporter identifies leflunomide and teriflunomide as polyglutamine aggregate inhibitors.,10.1093/hmg/ddr500
+22012334,"Evidence supporting a role for dihydroorotate dehydrogenase, bioenergetics, and p53 in selective teriflunomide-induced apoptosis in transformed versus normal human keratinocytes.",10.1007/s10495-011-0667-0
+21991951,Randomized trial of oral teriflunomide for relapsing multiple sclerosis.,10.1056/NEJMoa1014656
+24900364,Optimization of Potent Inhibitors of P. falciparum Dihydroorotate Dehydrogenase for the Treatment of Malaria.,10.1021/ml200143c
+21866942,"A chemical genomic analysis of decoquinate, a Plasmodium falciparum cytochrome b inhibitor.",10.1021/cb200105d
+21861807,Recent developments in the medicinal chemistry and therapeutic potential of dihydroorotate dehydrogenase (DHODH) inhibitors.,10.2174/138955711797247707
+21845515,Immunosuppressive effects and mechanisms of leflunomide in dengue virus infection of human dendritic cells.,10.1007/s10875-011-9578-7
+21840180,Potent antiviral activity of brequinar against the emerging Cantagalo virus in cell culture.,10.1016/j.ijantimicag.2011.07.002
+21801113,Leflunomide: dermatologic perspective.,10.3109/09546634.2011.595383
+21696174,Structure-guided lead optimization of triazolopyrimidine-ring substituents identifies potent Plasmodium falciparum dihydroorotate dehydrogenase inhibitors with clinical candidate potential.,10.1021/jm200592f
+21686163,3D-QSAR studies on a series of dihydroorotate dehydrogenase inhibitors: analogues of the active metabolite of leflunomide.,10.3390/ijms12052982
+21685321,Variation among Plasmodium falciparum strains in their reliance on mitochondrial electron transport chain function.,10.1128/EC.05049-11
+21517059,Lead optimization of aryl and aralkyl amine-based triazolopyrimidine inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase with antimalarial activity in mice.,10.1021/jm200265b
+21507975,Inhibition of dengue virus through suppression of host pyrimidine biosynthesis.,10.1128/JVI.02510-10
+21436031,Broad-spectrum antiviral that interferes with de novo pyrimidine biosynthesis.,10.1073/pnas.1101143108
+21430780,DHODH modulates transcriptional elongation in the neural crest and melanoma.,10.1038/nature09882
+21401078,Substrate binding and reactivity are not linked: grafting a proton-transfer network into a Class 1A dihydroorotate dehydrogenase.,10.1021/bi200258y
+21355448,"Human dihydroorotate dehydrogenase inhibitors, a novel approach for the treatment of autoimmune and inflammatory diseases.",10.1055/s-0031-1296169
+21301083,Structure of the putative dihydroorotate dehydrogenase from Streptococcus mutans.,10.1107/S1744309110048414
+21251930,Yeast dihydroorotate dehydrogenase as a new selectable marker for Plasmodium falciparum transfection.,10.1016/j.molbiopara.2011.01.004
+21157651,"Teriflunomide, an inhibitor of dihydroorotate dehydrogenase for the potential oral treatment of multiple sclerosis.",
+21109332,"1,2,5-Oxadiazole analogues of leflunomide and related compounds.",10.1016/j.ejmech.2010.10.029
+20965617,Novel insights for dihydroorotate dehydrogenase class 1A inhibitors discovery.,10.1016/j.ejmech.2010.09.055
+20874647,Leflunomide: a drug with a potential beyond rheumatology.,10.2217/imt.10.52
+20708304,"Chemometric modeling, docking and in silico design of triazolopyrimidine-based dihydroorotate dehydrogenase inhibitors as antimalarials.",10.1016/j.ejmech.2010.07.034
+20702404,Novel inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase with anti-malarial activity in the mouse model.,10.1074/jbc.M110.162081
+20674615,Hemozoin-free Plasmodium falciparum mitochondria for physiological and drug susceptibility studies.,10.1016/j.molbiopara.2010.07.006
+20606073,Characterization of dengue virus resistance to brequinar in cell culture.,10.1128/AAC.00561-10
+20603160,Protoporphyrinogen IX oxidase from Plasmodium falciparum is anaerobic and is localized to the mitochondrion.,10.1016/j.molbiopara.2010.06.012
+20566882,Pyrimidine biosynthesis links mitochondrial respiration to the p53 pathway.,10.1073/pnas.0910885107
+20553870,An N-(alkylcarbonyl)anthranilic acid derivative prolongs cardiac allograft survival synergistically with cyclosporine A in a high-responder rat model.,10.1016/j.trim.2010.05.005
+20489727,Induction of EMT-like phenotypes by an active metabolite of leflunomide and its contribution to pulmonary fibrosis.,10.1038/cdd.2010.64
+20413687,"4SC-101, a novel small molecule dihydroorotate dehydrogenase inhibitor, suppresses systemic lupus erythematosus in MRL-(Fas)lpr mice.",10.2353/ajpath.2010.091227
+20399851,Dihydroorotate dehydrogenase is required for N-(4-hydroxyphenyl)retinamide-induced reactive oxygen species production and apoptosis.,10.1016/j.freeradbiomed.2010.04.006
+20334617,Plasmodium dihydroorotate dehydrogenase: a promising target for novel anti-malarial chemotherapy.,10.2174/187152610791163336
+20310011,"4SC-101, a novel immunosuppressive drug, inhibits IL-17 and attenuates colitis in two murine models of inflammatory bowel disease.",10.1002/ibd.21264
+20183850,"Inhibition of human DHODH by 4-hydroxycoumarins, fenamic acids, and N-(alkylcarbonyl)anthranilic acids identified by structure-guided fragment selection.",10.1002/cmdc.200900454
+20156168,Inhibitors of the mitochondrial electron transport chain and de novo pyrimidine biosynthesis as antimalarials: The present status.,10.2174/092986710790820660
+20153645,Discovery of novel inhibitors for DHODH via virtual screening and X-ray crystallographic structures.,10.1016/j.bmcl.2010.01.115
+20066562,Control of pyrimidine nucleotide formation in Pseudomonas fulva.,10.1007/s10482-009-9410-z
+20034791,A study of the effects of substituents on the selectivity of the binding of N-arylaminomethylene malonate inhibitors to DHODH.,10.1016/j.bmcl.2009.11.079
+19751817,Microarray analysis of Leflunomide-induced limb malformations in CD-1 mice.,10.1016/j.reprotox.2009.09.001
+19640844,Structural plasticity of malaria dihydroorotate dehydrogenase allows selective binding of diverse chemical scaffolds.,10.1074/jbc.M109.028589
+19621636,"[F01WB-1315 A and B, two dihydroorotate dehydrogenase inhibitors from microbial metabolites].",
+19351152,"Structure-based design, synthesis, and characterization of inhibitors of human and Plasmodium falciparum dihydroorotate dehydrogenases.",10.1021/jm800963t
+19296651,Identification of a metabolically stable triazolopyrimidine-based dihydroorotate dehydrogenase inhibitor with antimalarial activity in mice.,10.1021/jm801343r
+19207032,The effect of exon (19C>A) dihydroorotate dehydrogenase gene polymorphism on rheumatoid arthritis treatment with leflunomide.,10.2217/14622416.10.2.303
+19190124,Inhibiting the teratogenicity of the immunosuppressant leflunomide in mice by supplementation of exogenous uridine.,10.1093/toxsci/kfp022
+19174558,Dihydroorotate dehydrogenase inhibitor A771726 (leflunomide) induces apoptosis and diminishes proliferation of multiple myeloma cells.,10.1158/1535-7163.MCT-08-0664
+20514908,Pregnancy course and neonatal outcome after exposure to leflunomide--2 cases report and review of literature.,
+19097788,Type II NADH dehydrogenase of the respiratory chain of Plasmodium falciparum and its inhibitors.,10.1016/j.bmcl.2008.11.071
+18842591,Identification and characterization of small molecule inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase.,10.1074/jbc.M804990200
+18834876,"Suppression of immunoglobulin production by a novel dihydroorotate dehydrogenase inhibitor, S-2678.",10.1016/j.ejphar.2008.09.010
+18808149,Structures of Trypanosoma cruzi dihydroorotate dehydrogenase complexed with substrates and products: atomic resolution insights into mechanisms of dihydroorotate oxidation and fumarate reduction.,10.1021/bi800413r
+18672895,The structures of human dihydroorotate dehydrogenase with and without inhibitor reveal conformational flexibility in the inhibitor and substrate binding sites.,10.1021/bi8003318
+18522386,Triazolopyrimidine-based dihydroorotate dehydrogenase inhibitors with potent and selective activity against the malaria parasite Plasmodium falciparum.,10.1021/jm8001026
+18312275,"Characterization of Trypanosoma brucei dihydroorotate dehydrogenase as a possible drug target; structural, kinetic and RNAi studies.",10.1111/j.1365-2958.2008.06131.x
+18302934,Crystal structure of Trypanosoma cruzi dihydroorotate dehydrogenase from Y strain.,10.1016/j.bbrc.2008.02.074
+18276780,Pyrimidine nucleoside depletion sensitizes to the mitochondrial hepatotoxicity of the reverse transcriptase inhibitor stavudine.,10.2353/ajpath.2008.070613
+18225919,Analysis of flavin oxidation and electron-transfer inhibition in Plasmodium falciparum dihydroorotate dehydrogenase.,10.1021/bi702218c
+17993483,Defects in vesicle core induced by escherichia coli dihydroorotate dehydrogenase.,10.1529/biophysj.107.120055
+17982036,Leflunomide inhibits PDK1/Akt pathway and induces apoptosis of human mast cells.,10.4049/jimmunol.179.10.6479
+17805332,The immunomodulatory drug Leflunomide inhibits cell cycle progression of B-CLL cells.,10.1038/sj.leu.2404922
+17604599,Teratogenicity study of the dihydroorotate-dehydrogenase inhibitor and protein tyrosine kinase inhibitor Leflunomide in mice.,10.1016/j.reprotox.2007.05.006
+17444658,Interaction of benzoate pyrimidine analogues with class 1A dihydroorotate dehydrogenase from Lactococcus lactis.,10.1021/bi7001554
+17369345,Functional expression of human dihydroorotate dehydrogenase (DHODH) in pyr4 mutants of ustilago maydis allows target validation of DHODH inhibitors in vivo.,10.1128/AEM.02569-06
+17330044,Specific role of mitochondrial electron transport in blood-stage Plasmodium falciparum.,10.1038/nature05572
+17228860,Design and synthesis of potent inhibitors of the malaria parasite dihydroorotate dehydrogenase.,10.1021/jm060687j
+17123468,Dicoumarol impairs mitochondrial electron transport and pyrimidine biosynthesis in human myeloid leukemia HL-60 cells.,10.1016/j.bcp.2006.10.016
+16979340,Enzyme inhibition potency enhancement by active site metal chelating and hydrogen bonding induced conformation-restricted cyclopropanecarbonyl derivatives.,10.1016/j.bmcl.2006.08.125
+16863447,4SCan/vADME: intelligent library screening as a shortcut from hits to lead compounds.,10.1517/17425255.2.3.471
+16850369,"Immunosuppression: today, tomorrow, and withdrawal.",10.1055/s-2006-947290
+16774642,Biochemical characterization of recombinant dihydroorotate dehydrogenase from the opportunistic pathogenic yeast Candida albicans.,10.1111/j.1742-4658.2006.05327.x
+16567708,A Phase II study of the safety and efficacy of teriflunomide in multiple sclerosis with relapses.,10.1212/01.wnl.0000203121.04509.31
+16510978,Structure of Plasmodium falciparum dihydroorotate dehydrogenase with a bound inhibitor.,10.1107/S0907444905042642
+16480261,Dual binding mode of a novel series of DHODH inhibitors.,10.1021/jm0506975
+16406782,Brequinar derivatives and species-specific drug design for dihydroorotate dehydrogenase.,10.1016/j.bmcl.2005.12.029
+16330000,Severe cytochrome c oxidase inhibition in vivo does not induce a pyrimidine deficiency; neuroprotective action of oral uridine prodrug PN401 requires supraphysiological levels of uridine.,10.1016/j.brainres.2005.10.056
+16246558,Biphenyl-4-ylcarbamoyl thiophene carboxylic acids as potent DHODH inhibitors.,10.1016/j.bmcl.2005.10.011
+16236496,The first de novo designed inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase.,10.1016/j.bmcl.2005.09.045
+16172019,Genetic diversity and kinetic properties of Trypanosoma cruzi dihydroorotate dehydrogenase isoforms.,10.1016/j.parint.2005.08.001
+16120318,Mechanism of leflunomide-induced proliferation of mitochondria in mammalian cells.,10.1016/s1567-7249(02)00045-4
+15890648,Nuclear localization and mitogen-activated protein kinase phosphorylation of the multifunctional protein CAD.,10.1074/jbc.M504581200
+15795226,High-throughput screening for potent and selective inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase.,10.1074/jbc.M501100200
+15727850,Synthesis of brequinar analogue inhibitors of malaria parasite dihydroorotate dehydrogenase.,10.1016/j.bmc.2005.01.017
+15710552,Inhibitory action of marine algae extracts on the Trypanosoma cruzi dihydroorotate dehydrogenase activity and on the protozoan growth in mammalian cells.,10.1016/j.parint.2004.11.001
+15652966,Inhibition of human cytomegalovirus signaling and replication by the immunosuppressant FK778.,10.1016/j.antiviral.2004.03.007
+15571246,Dihydroorotate dehydrogenase mRNA and protein expression analysis in normal and drug-resistant cells.,10.1081/NCN-200027547
+15571245,Severe impairment of nucleotide synthesis through inhibition of mitochondrial respiration.,10.1081/NCN-200027545
+15547088,Leflunomide inhibits transendothelial migration of peripheral blood mononuclear cells.,10.1136/ard.2003.018440
+15196933,Two different dihydroorotate dehydrogenases from yeast Saccharomyces kluyveri.,10.1016/j.febslet.2004.05.017
+15189743,Leflunomide in the treatment of rheumatoid arthritis.,10.1016/s0149-2918(04)90048-3
+15182735,"Protective and anti-arthritic effects of deer antler aqua-acupuncture (DAA), inhibiting dihydroorotate dehydrogenase, on phosphate ions-mediated chondrocyte apoptosis and rat collagen-induced arthritis.",10.1016/j.intimp.2004.04.010
+15160604,Regulation of pyrimidine nucleotide formation in Pseudomonas taetrolens ATCC 4683.,10.1016/j.micres.2004.01.007
+15044733,Inhibitor binding in a class 2 dihydroorotate dehydrogenase causes variations in the membrane-associated N-terminal domain.,10.1110/ps.03533004
+14746536,Regulation of pyrimidine nucleotide formation in Pseudomonas reptilivora.,10.1111/j.1472-765x.2003.01453.x
+20021118,The various sources of mitochondrial oxygen radicals: a minireview.,10.1080/15376520490257383
+14684297,Discovery of a novel series of DHODH inhibitors by a docking procedure and QSAR refinement.,10.1016/j.bmcl.2003.10.021
+12923428,Leflunomide analogue FK778 is vasculoprotective independent of its immunosuppressive effect: potential applications for restenosis and chronic rejection.,10.1097/01.TP.0000076382.87978.73
+12723931,Synthesis of beta-hydroxy-propenamide derivatives and the inhibition of human dihydroorotate dehydrogenase.,10.1007/BF02976829
+12503612,"Methodology and problems of protein-ligand docking: case study of dihydroorotate dehydrogenase, thymidine kinase, and phosphodiesterase 4.",10.1081/rrs-120014592
+12372626,Plant dihydroorotate dehydrogenase differs significantly in substrate specificity and inhibition from the animal enzymes.,10.1016/s0014-5793(02)03425-7
+12361393,"Parallel synthesis of potent, pyrazole-based inhibitors of Helicobacter pylori dihydroorotate dehydrogenase.",10.1021/jm020112w
+12220493,E. coli dihydroorotate dehydrogenase reveals structural and functional distinctions between different classes of dihydroorotate dehydrogenases.,10.1016/s0969-2126(02)00831-6
+12213251,Drosophila melanogaster dihydroorotate dehydrogenase: the N-terminus is important for biological function in vivo but not for catalytic properties in vitro.,10.1016/s0965-1748(02)00052-8
+12189151,Malarial dihydroorotate dehydrogenase. Substrate and inhibitor specificity.,10.1074/jbc.M206854200
+12100469,In vitro and in Vivo inhibition of immunoglobulin secretion by the immunosuppressive compound HR325 is reversed by exogenous uridine.,10.1046/j.1365-3083.2002.01107.x
+12062127,"The interaction of 5-fluoroorotic acid with transition metals: synthesis and characterisation of Ni(II), Cu(II) and Zn(II) complexes.",10.1016/s0162-0134(01)00421-4
+11783497,Inhibition and localization of human and rat dihydroorotate dehydrogenase.,10.1007/0-306-46843-3_52
+11520193,Specific inhibition of a family 1A dihydroorotate dehydrogenase by benzoate pyrimidine analogues.,10.1021/jm015535x
+11437361,Dihydrooxonate is a substrate of dihydroorotate dehydrogenase (DHOD) providing evidence for involvement of cysteine and serine residues in base catalysis.,10.1006/abbi.2001.2409
+11379415,New disease modifying agents in adult rheumatoid arthritis.,
+11329288,Multiple inhibitor analysis of the brequinar and leflunomide binding sites on human dihydroorotate dehydrogenase.,10.1021/bi001810q
+11248707,"Recombinant expression of N-terminal truncated mutants of the membrane bound mouse, rat and human flavoenzyme dihydroorotate dehydrogenase. A versatile tool to rate inhibitor effects?",
+11235018,"Anti-arthritic effects of KF20444, a new immunosuppressive compound inhibiting dihydroorotate dehydrogenase, on rat collagen-induced arthritis.",10.1007/s000110050720
+11053058,Leflunomide: mode of action in the treatment of rheumatoid arthritis.,10.1136/ard.59.11.841
+10938275,Helicobacter pylori-selective antibacterials based on inhibition of pyrimidine biosynthesis.,10.1074/jbc.M004451200
+10928353,"Mitochondrial oxygen consumption in asexual and sexual blood stages of the human malarial parasite, Plasmodium falciparum.",
+10891080,Role of lys100 in human dihydroorotate dehydrogenase: mutagenesis studies and chemical rescue by external amines.,10.1021/bi000630d
+10889450,Indirect inhibition of mitochondrial dihydroorotate dehydrogenase activity by nitric oxide.,10.1016/s0891-5849(00)00239-2
+10878294,Leflunomide: an immunomodulatory drug for the treatment of rheumatoid arthritis and other autoimmune diseases.,10.1016/s0162-3109(00)00191-0
+10878284,Immunosuppressive drugs: the first 50 years and a glance forward.,10.1016/s0162-3109(00)00186-7
 10871048,"Catalytic properties of dihydroorotate dehydrogenase from Saccharomyces cerevisiae: studies on pH, alternate substrates, and inhibitors.",10.1006/abbi.2000.1823
 10856428,Selective inhibition of bacterial dihydroorotate dehydrogenases by thiadiazolidinediones.,10.1016/s0006-2952(00)00348-8
 10775458,"A second dihydroorotate dehydrogenase (Type A) of the human pathogen Enterococcus faecalis: expression, purification, and steady-state kinetic mechanism.",10.1006/abbi.2000.1769
